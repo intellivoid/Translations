@@ -6,6 +6,15 @@ framework uses a single json file to display text for individual
 pages and imported sections.
 
 
+## Translations
+
+| Language             | Last Updated  | Needs to be updated | Translator                            |
+|----------------------|---------------|---------------------|---------------------------------------|
+| English              | June 13, 2019 | No                  | [Zi Xing](https://github.com/netkas)  |
+| Chinese (Simplified) | June 13, 2019 | No                  | [Zi Xing](https://github.com/netkas)  |
+| German               | June 14, 2019 | No                  | [Dav2070](https://github.com/Dav2070) |
+
+
 ## Example Document
 ```json
 {
