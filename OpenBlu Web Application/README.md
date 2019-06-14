@@ -40,7 +40,14 @@ pages and imported sections.
 ```
 
 The document above is an example of what a translation file
-(Language File) typically looks like. 
+(Language File / JSON File) typically looks like. During
+translating the structure should remain the same. There cannot
+be removed or added values unless the primary language file
+(EN) has been updated.
+
+In the case if another translation is missing a value, the
+fallback language (EN) will be used to display the missing
+text
 
 -----------------------------------------------------------------
 
