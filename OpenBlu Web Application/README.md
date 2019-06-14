@@ -51,7 +51,8 @@ text
 
 -----------------------------------------------------------------
 
-### Structure
+### Language Structure
+
 `language` Contains basic information about the language
 that's presented in this document, including the language code
 aka a `iso_639-1` code.
@@ -63,6 +64,8 @@ aka a `iso_639-1` code.
 }
 ```
 
+
+### Pages Structure
 
 `pages` Is a list of existing pages that the Web Application
 can present, within each page it contains a `NAME`: `VALUE`
@@ -91,6 +94,7 @@ between two characters, for example; "`Hello, you are number #%s`"
 }
 ```
 
+### Sections Structure
 
 `sections` Works the same way as pages, but rather translating
 individual pages it translates sections of the web application,
