@@ -10,9 +10,9 @@ pages and imported sections.
 
 | Language             | Last Updated  | Needs to be updated | Translator                            |
 |----------------------|---------------|---------------------|---------------------------------------|
-| English              | June 13, 2019 | No                  | [Zi Xing](https://github.com/netkas)  |
-| Chinese (Simplified) | June 13, 2019 | No                  | [Zi Xing](https://github.com/netkas)  |
-| German               | June 14, 2019 | No                  | [Dav2070](https://github.com/Dav2070) |
+| English              | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)  |
+| Chinese (Simplified) | June 13, 2019 | Yes                 | [Zi Xing](https://github.com/netkas)  |
+| German               | June 14, 2019 | Yes                 | [Dav2070](https://github.com/Dav2070) |
 
 
 ## Example Document
@@ -115,3 +115,14 @@ which is typically a navigation bar, footer, banners, etc.
     "NAVBAR_ABOUT": "About Page"
 }
 ```
+
+
+## Markdown Files
+
+Each markdown "file" is a directory which consists of .md files named
+after a `iso_639-1` language code. To add support for another language
+simply create a new .md file in the directory named after the proper
+`iso_639-1` code.
+
+The structure of .md file is standard and does not use any placeholders
+or undocumented features.
