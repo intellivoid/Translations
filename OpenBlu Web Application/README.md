@@ -8,11 +8,12 @@ pages and imported sections.
 
 ## Translations
 
-| Language             | Last Updated  | Needs to be updated | Translator                            |
-|----------------------|---------------|---------------------|---------------------------------------|
-| English              | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)  |
-| Chinese (Simplified) | June 13, 2019 | Yes                 | [Zi Xing](https://github.com/netkas)  |
-| German               | June 14, 2019 | Yes                 | [Dav2070](https://github.com/Dav2070) |
+| Language             | Last Updated  | Needs to be updated | Translator                                     |
+|----------------------|---------------|---------------------|------------------------------------------------|
+| English              | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
+| Chinese (Simplified) | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
+| Spanish              | Jan 27, 2020  | No                  | [Ryosuke Ikeda](https://github.com/takarushi)  |
+| German               | June 14, 2019 | Yes                 | [Dav2070](https://github.com/Dav2070)          |
 
 
 ## Example Document
