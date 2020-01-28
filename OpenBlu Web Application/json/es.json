@@ -1,6 +1,6 @@
 {
     "language": {
-        "name": "spanish",
+        "name": "Español",
         "iso_639-1": "es"
     },
     "pages": {
@@ -218,7 +218,7 @@
     },
     "sections": {
         "sidebar": {
-            "SIDEBAR_ADD_TO_BALANCE": "Add to balance",
+            "SIDEBAR_ADD_TO_BALANCE": "Añadir al Balance",
             "SIDEBAR_LOGOUT": "Cerrar sesión",
             "SIDEBAR_NOT_LOGGED_IN": "Sesión no iniciada",
             "SIDEBAR_LOGIN": "Iniciar sesión",
