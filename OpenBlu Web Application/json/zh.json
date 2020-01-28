@@ -86,7 +86,7 @@
             "CALLBACK_102": "尝试处理身份验证时出错：%s",
             "CALLBACK_103": "目前无法访问Intellivoid帐户",
             "CALLBACK_104": "该服务器不支持使用的身份验证方法",
-            "CALLBACK_105": "You've logged in successfully!"
+            "CALLBACK_105": "您已成功登录！"
         },
         "purchase": {
             "PAGE_TITLE": "OpenBlu - Confirm Purchase",
