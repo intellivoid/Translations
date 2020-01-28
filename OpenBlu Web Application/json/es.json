@@ -186,7 +186,7 @@
             "NOTIFICATION_DOWNLOAD_ERROR_TITLE": "Error de descarga",
             "NOTIFICATION_DOWNLOAD_ERROR_MESSAGE": "Hubo un error al procesar tu solicitud, intentá recargar esta página.",
             "NOTIFICATION_DOWNLOAD_STARTED_TITLE": "Descarga Iniciada",
-            "NOTIFICATION_DOWNLOAD_STARTED_MESSAGE": "Tu archivo de configuración OpenVPN debería empezar a descargar"
+            "NOTIFICATION_DOWNLOAD_STARTED_MESSAGE": "Tu archivo de configuración OpenVPN debería empezar a descargar",
             "FILTER_DIALOG_TITLE": "Filtrar servidores por país",
             "FILTER_DIALOG_CHOICE_LABEL": "País",
             "FILTER_DIALOG_FILTER_BUTTON": "Filtrar resultados",
