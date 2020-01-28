@@ -226,8 +226,8 @@
             "SIDEBAR_NAV_ABOUT": "About"
         },
         "navigation": {
-            "LANGUAGES_DROPDOWN": "Languages",
-            "ADD_TRANSLATION": "Add Translation"
+            "LANGUAGES_DROPDOWN": "语言能力",
+            "ADD_TRANSLATION": "添加翻译"
         }
     }
 }
