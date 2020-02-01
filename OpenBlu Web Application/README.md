@@ -13,7 +13,7 @@ pages and imported sections.
 | English              | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
 | Chinese (Simplified) | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
 | Spanish              | Jan 27, 2020  | No                  | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| German               | June 14, 2019 | Yes                 | [Dav2070](https://github.com/Dav2070)          |
+| German               | Feb 1, 2020   | No                  | [Dav2070](https://github.com/Dav2070)          |
 
 
 ## Example Document
