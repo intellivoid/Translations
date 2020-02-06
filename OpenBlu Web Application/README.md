@@ -10,10 +10,10 @@ pages and imported sections.
 
 | Language             | Last Updated  | Needs to be updated | Translator                                     |
 |----------------------|---------------|---------------------|------------------------------------------------|
-| English              | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
-| Chinese (Simplified) | Jan 27, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
-| Spanish              | Jan 27, 2020  | No                  | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| German               | Feb 1, 2020   | No                  | [Dav2070](https://github.com/Dav2070)          |
+| English              | Feb 5, 2020   | No                  | [Zi Xing](https://github.com/netkas)           |
+| Chinese (Simplified) | Feb 5, 2020   | No                  | [Zi Xing](https://github.com/netkas)           |
+| Spanish              | Jan 27, 2020  | Yes                 | [Ryosuke Ikeda](https://github.com/takarushi)  |
+| German               | Feb 1, 2020   | Yes                 | [Dav2070](https://github.com/Dav2070)          |
 
 
 ## Example Document
