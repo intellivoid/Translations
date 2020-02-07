@@ -142,11 +142,11 @@
             "FOOTER_PRIVACY_POLICY": "隐私政策"
         },
         "landing_navbar": {
-            "NAVBAR_HOME": "Home",
-            "NAVBAR_PRICING": "Pricing",
-            "NAVBAR_LYDIA_DEMO": "Lydia Demo",
-            "NAVBAR_DASHBOARD": "Dashboard",
-            "NAVBAR_LOGOUT": "Logout"
+            "NAVBAR_HOME": "家",
+            "NAVBAR_PRICING": "价钱",
+            "NAVBAR_LYDIA_DEMO": "莉迪亚（Lydia）演示",
+            "NAVBAR_DASHBOARD": "仪表板",
+            "NAVBAR_LOGOUT": "登出"
         },
         "navigation": {
             "NAVBAR_AVATAR_DROPDOWN_LOGOUT": "Logout",
