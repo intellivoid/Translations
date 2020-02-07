@@ -138,8 +138,8 @@
             "CHANGE_LANGUAGE_DIALOG_TITLE": "改变语言"
         },
         "landing_footer": {
-            "FOOTER_TERMS_OF_SERVICE": "Terms of Service",
-            "FOOTER_PRIVACY_POLICY": "Privacy Policy"
+            "FOOTER_TERMS_OF_SERVICE": "服务条款",
+            "FOOTER_PRIVACY_POLICY": "隐私政策"
         },
         "landing_navbar": {
             "NAVBAR_HOME": "Home",
