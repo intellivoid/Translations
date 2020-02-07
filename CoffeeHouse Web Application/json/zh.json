@@ -149,10 +149,10 @@
             "NAVBAR_LOGOUT": "登出"
         },
         "navigation": {
-            "NAVBAR_AVATAR_DROPDOWN_LOGOUT": "Logout",
-            "NAVBAR_HOME": "Home",
-            "NAVBAR_GENERATE_ACCESS_KEY": "Generate Access Key",
-            "NAVBAR_DOCS": "API Documentation"
+            "NAVBAR_AVATAR_DROPDOWN_LOGOUT": "登出",
+            "NAVBAR_HOME": "家",
+            "NAVBAR_GENERATE_ACCESS_KEY": "生成访问密钥",
+            "NAVBAR_DOCS": "API文档"
         }
     }
 }
