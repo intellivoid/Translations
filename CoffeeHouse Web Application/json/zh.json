@@ -85,16 +85,16 @@
         },
         "lydia_demo": {
             "PAGE_TITLE": "CoffeeHouse - Lydia",
-            "HEADER_DESCRIPTION": "Lydia is a advanced chat bot that actively learns from conversations and is capable of speaking in many languages without having to hard-configure anything about it.",
-            "INPUT_PLACEHOLDER": "What's on your mind?",
-            "GENERIC_USER_SELF": "You",
-            "AUTHENTICATION_REQUIRED_RESPONSE": "As much as i would love to chat with you, i need you to authenticate first! this is to prevent abuse and spam",
-            "AUTHENTICATION_REQUIRED_ACTION": "Click here to authenticate",
-            "GENERIC_ERROR_RESPONSE": "Uh oh... Something went wrong, try refreshing maybe?",
-            "SESSION_ERROR_RESPONSE": "Whoops! There seems to be an issue with our chat session. Try refreshing this page!",
-            "SESSION_EXPIRED_RESPONSE": "Hey! our chat session expired, we can talk again though! Try refreshing this page!",
-            "RELOAD_ACTION": "Reload Page",
-            "INTRODUCTION_MESSAGE": "Hello! Try having a conversation with me!"
+            "HEADER_DESCRIPTION": "莉迪亚（Lydia）是一个高级聊天机器人，可以主动地从对话中学习，并且能够以多种语言讲话，而无需对其进行任何硬配置。",
+            "INPUT_PLACEHOLDER": "你在想什么？",
+            "GENERIC_USER_SELF": "您",
+            "AUTHENTICATION_REQUIRED_RESPONSE": "我很想和您聊天，我需要您先进行身份验证！ 这是为了防止滥用和垃圾邮件",
+            "AUTHENTICATION_REQUIRED_ACTION": "点击此处进行身份验证",
+            "GENERIC_ERROR_RESPONSE": "嗯...出了点问题，也许尝试刷新一下？",
+            "SESSION_ERROR_RESPONSE": "哎呀！ 我们的聊天会话似乎存在问题。 尝试刷新此页面！",
+            "SESSION_EXPIRED_RESPONSE": "嘿! 我们的聊天会话已过期，但是我们可以再次交谈！ 尝试刷新此页面！",
+            "RELOAD_ACTION": "重新载入页面",
+            "INTRODUCTION_MESSAGE": "你好！ 尝试与我对话！"
         },
         "privacy": {
             "PAGE_TITLE": "CoffeeHouse - Privacy Policy",
