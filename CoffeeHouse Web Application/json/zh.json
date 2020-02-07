@@ -135,7 +135,7 @@
     },
     "sections": {
         "change_language_modal": {
-            "CHANGE_LANGUAGE_DIALOG_TITLE": "Change Language"
+            "CHANGE_LANGUAGE_DIALOG_TITLE": "改变语言"
         },
         "landing_footer": {
             "FOOTER_TERMS_OF_SERVICE": "Terms of Service",
