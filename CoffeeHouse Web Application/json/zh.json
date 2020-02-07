@@ -118,15 +118,15 @@
             "CALLBACK_103": "促销代码不适用于此计划"
         },
         "service_error": {
-            "PAGE_TITLE": "CoffeeHouse - Service Error",
-            "HEADER_TITLE": "Service Error",
-            "HEADER_DESCRIPTION": "There was an error while trying to handle your request",
-            "HEADER_1": "What is this?",
-            "DESCRIPTION_1": "There was an error while trying to handle your request, please send this page's URL to Intellivoid Support",
-            "HEADER_2": "Why?",
-            "DESCRIPTION_2": "Well, it's optional. But the URL contains important information which allows a programmer to determine the issue",
-            "HEADER_3": "Like what?",
-            "DESCRIPTION_3": "Nothing personal of course, just ask the programmer."
+            "PAGE_TITLE": "CoffeeHouse - 服务错误",
+            "HEADER_TITLE": "服务错误",
+            "HEADER_DESCRIPTION": "尝试处理您的请求时出错",
+            "HEADER_1": "这是什么？",
+            "DESCRIPTION_1": "尝试处理您的请求时出错，请将此页面的URL发送给Intellivoid支持",
+            "HEADER_2": "为什么？",
+            "DESCRIPTION_2": "好吧，它是可选的。 但是该URL包含重要信息，可让程序员确定问题所在",
+            "HEADER_3": "像什么？",
+            "DESCRIPTION_3": "当然没有什么私人的，只问程序员。"
         },
         "tos": {
             "PAGE_TITLE": "CoffeeHouse - Terms of Service",
