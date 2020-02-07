@@ -5,11 +5,11 @@
     },
     "pages": {
         "404": {
-            "PAGE_TITLE": "CoffeeHouse - 404 Not Found",
+            "PAGE_TITLE": "CoffeeHouse - 找不到404",
             "PAGE_HEADER": "404",
-            "PAGE_DESC": "Nothing was found here, that's all we know.",
-            "CARD_CONTENT_HEADER": "What can i do?",
-            "HOME_BUTTON": "Go Home"
+            "PAGE_DESC": "在这里什么也没找到，仅此而已。",
+            "CARD_CONTENT_HEADER": "我能做什么？",
+            "HOME_BUTTON": "回家"
         },
         "500": {
             "PAGE_TITLE": "CoffeeHouse - 500 Internal Server Error",
