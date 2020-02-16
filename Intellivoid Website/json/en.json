@@ -1,0 +1,92 @@
+{
+    "language": {
+        "name": "english",
+        "iso_639-1": "en"
+    },
+    "pages": {
+        "index": {
+            "PAGE_TITLE": "Intellivoid",
+            "HEADER_TITLE": "We are the solution to complex tasks",
+            "HEADER_SUB": "Unlike others, we take our time to create the best and only the best.",
+            "SECTION_ACOUNTS_HEADER": "Intellivoid Accounts",
+            "SECTION_ACCOUNTS_SUB_HEADER": "The second generation for authentication is here now",
+            "SECTION_ACCOUNTS_OPEN_BUTTON": "Open Intellivoid Accounts",
+            "SECTION_ACCOUNTS_PRIVACY_BUTTON": "Privacy Policy",
+            "SECTION_ACCOUNTS_HINT": "Take back your privacy today",
+            "SECTION_OPENBLU_SERVERS": "Servers",
+            "SECTION_OPENBLU_CONNECTED_USERS": "Connected Users",
+            "SECTION_OPENBLU_FREE": "Free",
+            "SECTION_OPENBLU_ACCESS": "Access",
+            "SECTION_OPENBLU_HEADER": "OpenBlu VPN",
+            "SECTION_OPENBLU_DESC": "A robust and free VPN Service powered by volunteers with well documented API Access",
+            "SECTION_OPENBLU_FEATURE_1": "Standard Encryption on all VPN Servers",
+            "SECTION_OPENBLU_FEATURE_2": "Well documented Configuration Files",
+            "SECTION_OPENBLU_FEATURE_3": "Try API before purchasing access",
+            "SECTION_OPENBLU_OPEN_APPLICATION_BUTTON": "Open Web Application",
+            "SECTION_COFFEEHOUSE_HEADER": "CoffeeHouse",
+            "SECTION_COFFEEHOUSE_DESC": "Multi-purpose cloud based artificial intelligence & machine learning service for all",
+            "SECTION_COFFEEHOUSE_FEATURE_1": "Advanced machine learning chat bot",
+            "SECTION_COFFEEHOUSE_FEATURE_2": "Open source API Wrappers used by many projects",
+            "SECTION_COFFEEHOUSE_FEATURE_3": "Free to use for personal usage",
+            "SECTION_COFFEEHOUSE_OPEN_COFFEEHOUSE_BUTTON": "Open CoffeeHouse",
+            "SECTION_COFFEEHOUSE_CHATS": "Chats",
+            "SECTION_COFFEEHOUSE_PROJECTS": "Projects",
+            "SECTION_NETLENIUM_HEADER": "Netlenium Framework",
+            "SECTION_NETLENIUM_DESC_1": "A cross platform and cloud based browser automation framework, designed to create tests, automate complicated tasks or to monitor data without messing with complicated javascript or web components",
+            "SECTION_NETLENIUM_DESC_2": "This is a ongoing project, more information will be released in the future",
+            "SECTION_NETLENIUM_BUTTON": "Coming Soon"
+        },
+        "contact": {
+            "PAGE_TITLE": "Intellivoid - Contact Us",
+            "HEADER_TITLE": "Contact Us",
+            "LABEL_EMAIL_ADDRESS": "Email Address",
+            "LABEL_SUBJECT": "Subject",
+            "SUBJECT_PLACEHOLDER": "Subject",
+            "LABEL_MESSAGE": "Message",
+            "MESSAGE_PLACEHOLDER": "Write your message here ...",
+            "SUBMIT_BUTTON": "Submit",
+            "FEATURE_1_TITLE": "We will get back to you!",
+            "FEATURE_1_DESC": "Contacting us is fast and painless, no unnecessary steps or information.",
+            "FEATURE_2_TITLE": "Have a question?",
+            "FEATURE_2_DESC": "We will answer them! No generic or confusing responses. We don't use any AI behind our support team",
+            "CALLBACK_100": "There was an issue with your request, please make sure your browser is up to date",
+            "CALLBACK_101": "The given Email address is invalid",
+            "CALLBACK_102": "The given Subject is invalid, it must be greater than 5 characters but no greater than 130",
+            "CALLBACK_103": "The given Message is invalid, it must be greater than 20 characters but no greater than 2500",
+            "CALLBACK_104": "There was an unknown error while trying to process your report, please wait till Intellivoid resolves this issue",
+            "CALLBACK_105": "Your report has been submitted, we will reach you shortly. Your ticket number is #%s",
+            "CALLBACK_106": "The captcha was solved incorrectly"
+        },
+        "privacy": {
+            "PAGE_TITLE": "Intellivoid - Privacy Policy",
+            "HEADER_TITLE": "Privacy Policy"
+        },
+        "tos": {
+            "PAGE_TITLE": "Intellivoid - Terms of Service",
+            "HEADER_TITLE": "Terms of Service"
+        }
+    },
+    "sections": {
+        "landing_navbar": {
+            "NAVBAR_BRAND_TOOLTIP": "Software & Services for Consumers and Businesses",
+            "NAVBAR_TOGGLE_LABEL": "Toggle navigation",
+            "NAVBAR_COMING_SOON_PLACEHOLDER": "(Coming Soon)",
+            "NAVBAR_SERVICES_DROPDOWN": "Services",
+            "NAVBAR_SUPPORT_DROPDOWN": "Support",
+            "NAVBAR_SUPPORT_CONTACT_US": "Contact Us",
+            "NAVBAR_SUPPORT_PRIVACY_POLICY": "Privacy Policy",
+            "NAVBAR_SUPPORT_TERMS_OF_SERVICE": "Terms of Service",
+            "NAVBAR_SOCIAL_TWITTER_TOOLTIP": "Follow us on Twitter",
+            "NAVBAR_SOCIAL_TELEGRAM_TOOLTIP": "Chat with us on Telegram",
+            "NAVBAR_SOCIAL_INSTAGRAM_TOOLTIP": "Follow us on Instagram",
+            "NAVBAR_SOCIAL_GITHUB_TOOLTIP": "Find us on Github"
+        },
+        "landing_footer": {
+            "FOOTER_CONTACT_US": "Contact Us",
+            "FOOTER_PRIVACY_POLICY": "Privacy Policy",
+            "FOOTER_TERMS_OF_SERVICE": "Terms of Service",
+            "FOOTER_COMING_SOON_PLACEHOLDER": "(Coming Soon)",
+            "FOOTER_FOLLOW_US_TITLE": "Follow Us"
+        }
+    }
+}
