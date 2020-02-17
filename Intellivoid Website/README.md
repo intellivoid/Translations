@@ -1,6 +1,6 @@
-# OpenBlu Web Application
+# Intellivoid Website
 
-The OpenBlu Web Application is written under the DynamicalWeb
+The Intellivoid Website is written under the DynamicalWeb
 framework (Internal Solution developed by Intellivoid), this
 framework uses a single json file to display text for individual
 pages and imported sections.
@@ -8,14 +8,9 @@ pages and imported sections.
 
 ## Translations
 
-| Language             | Last Updated   | Needs to be updated  | Translator                                     |
-|----------------------|----------------|----------------------|------------------------------------------------|
-| English              | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)           |
-| Chinese (Simplified) | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)           |
-| Spanish              | Feb 5, 2020    | No                   | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| German               | Feb 1, 2020    | Yes                  | [Dav2070](https://github.com/Dav2070)          |
-| Turkish              | Feb 17, 2020   | Yes (Missing MD)     | [M.Furkan](https://github.com/muhammedfurkan)  |
-
+| Language             | Last Updated  | Needs to be updated | Translator                                     |
+|----------------------|---------------|---------------------|------------------------------------------------|
+| English              | Feb 16, 2020  | No                  | [Zi Xing](https://github.com/netkas)           |
 
 ## Example Document
 ```json
