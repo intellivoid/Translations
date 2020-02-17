@@ -8,10 +8,12 @@ pages and imported sections.
 
 ## Translations
 
-| Language             | Last Updated  | Needs to be updated | Translator                                     |
-|----------------------|---------------|---------------------|------------------------------------------------|
-| English              | Feb 5, 2020   | No                  | [Zi Xing](https://github.com/netkas)           |
-| Chinese              | Feb 6, 2020   | No                  | [Zi Xing](https://github.com/netkas)           |
+| Language             | Last Updated   | Needs to be updated | Translator                                     |
+|----------------------|----------------|---------------------|------------------------------------------------|
+| English              | Feb 5, 2020    | No                  | [Zi Xing](https://github.com/netkas)           |
+| Chinese              | Feb 6, 2020    | No                  | [Zi Xing](https://github.com/netkas)           |
+| Spanish              | Feb 7, 2020    | No                  | [Ryosuke Ikeda](https://github.com/takarushi)  |
+| Turkish              | Feb 17, 2020   | No                  | [M.Furkan](https://github.com/muhammedfurkan)  |
 
 
 ## Example Document
