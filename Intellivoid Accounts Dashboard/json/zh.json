@@ -12,11 +12,11 @@
             "HOME_LINK": "回到家"
         },
         "500": {
-            "PAGE_TITLE": "500 Internal Server Error",
+            "PAGE_TITLE": "500内部服务器错误",
             "HEADER": "500",
             "SUB_HEADER": "OwO",
-            "MESSAGE": "Server made an oopsy woopsy",
-            "HOME_LINK": "Go Back Home"
+            "MESSAGE": "服务器发出糟糕的信号",
+            "HOME_LINK": "回到家"
         },
         "account_balance": {
             "PAGE_TITLE": "Account Balance",
