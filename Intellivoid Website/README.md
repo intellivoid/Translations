@@ -1,6 +1,6 @@
-# CoffeeHouse Web Application
+# Intellivoid Website
 
-The CoffeeHouse Web Application is written under the DynamicalWeb
+The Intellivoid Website is written under the DynamicalWeb
 framework (Internal Solution developed by Intellivoid), this
 framework uses a single json file to display text for individual
 pages and imported sections.
@@ -8,13 +8,11 @@ pages and imported sections.
 
 ## Translations
 
-| Language             | Last Updated   | Needs to be updated | Translator                                     |
-|----------------------|----------------|---------------------|------------------------------------------------|
-| English              | Feb 5, 2020    | No                  | [Zi Xing](https://github.com/netkas)           |
-| Chinese              | Feb 6, 2020    | No                  | [Zi Xing](https://github.com/netkas)           |
-| Spanish              | Feb 7, 2020    | No                  | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| Turkish              | Feb 17, 2020   | No                  | [M.Furkan](https://github.com/muhammedfurkan)  |
-
+| Language             | Last Updated   | Needs to be updated  | Translator                                     |
+|----------------------|----------------|----------------------|------------------------------------------------|
+| English              | Feb 16, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
+| Spanish              | Feb 17, 2020   | No                   | [Ryosuke Ikeda](https://github.com/takarushi)  |
+| Turkish              | Feb 17, 2020   | Yes (Missing MD)     | [M.Furkan](https://github.com/muhammedfurkan)  |
 
 ## Example Document
 ```json
@@ -116,3 +114,14 @@ which is typically a navigation bar, footer, banners, etc.
     "NAVBAR_ABOUT": "About Page"
 }
 ```
+
+
+## Markdown Files
+
+Each markdown "file" is a directory which consists of .md files named
+after a `iso_639-1` language code. To add support for another language
+simply create a new .md file in the directory named after the proper
+`iso_639-1` code.
+
+The structure of .md file is standard and does not use any placeholders
+or undocumented features.
