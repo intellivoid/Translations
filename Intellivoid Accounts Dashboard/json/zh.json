@@ -64,10 +64,10 @@
             "AUTHENTICATION_AUTHENTICATE_BUTTON": "认证"
         },
         "application_error": {
-            "PAGE_TITLE": "COA Error",
-            "PAGE_HEADER": "COA Error",
-            "PAGE_SUB_HEADER": "There was an error while trying to process your authentication request",
-            "ERROR_DETAILS_HEADER": "Error Details"
+            "PAGE_TITLE": "COA错误",
+            "PAGE_HEADER": "COA错误",
+            "PAGE_SUB_HEADER": "尝试处理身份验证请求时出错",
+            "ERROR_DETAILS_HEADER": "错误详情"
         },
         "applications": {
             "PAGE_TITLE": "Manage Applications",
