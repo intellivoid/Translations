@@ -642,10 +642,10 @@
             "AUTH_FOOTER_CONTACT_LINK": "联系我们"
         },
         "change_avatar_modal": {
-            "CHANGE_AVATAR_DIALOG_TITLE": "Change Avatar",
-            "CHANGE_AVATAR_DIALOG_HINT": "JPEG or PNG Images that are 128x128px or larger are acceptable uploads",
-            "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "Cancel",
-            "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "Upload"
+            "CHANGE_AVATAR_DIALOG_TITLE": "更改头像",
+            "CHANGE_AVATAR_DIALOG_HINT": "可接受的上传尺寸为128x128像素或更大的JPEG或PNG图片",
+            "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "取消",
+            "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "上载"
         },
         "dashboard_navbar": {
             "USER_DROPDOWN_MANAGE_APPLICATIONS": "Manage Applications",
