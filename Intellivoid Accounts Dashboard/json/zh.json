@@ -143,15 +143,15 @@
             "SUBMIT_BUTTON": "完成"
         },
         "authentication_success": {
-            "PAGE_TITLE": "Authentication Successful",
-            "AUTHENTICATION_CARD_TITLE": "Sign in with Intellivoid Accounts",
-            "USER_IMG_ALT": "User Avatar",
-            "APP_IMG_ALT": "Application Logo",
-            "APPLICATION_TICK_VERIFIED": "This is verified & trusted",
-            "APPLICATION_TICK_OFFICIAL": "This is an official Intellivoid Application/Service",
-            "APPLICATION_TICK_UNTRUSTED": "This is untrusted and unsafe",
-            "HEADER_TEXT": "Successfully Authenticated",
-            "SUB_HEADER_TEXT": "%s is processing your request"
+            "PAGE_TITLE": "验证成功",
+            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid帐户登录",
+            "USER_IMG_ALT": "用户头像",
+            "APP_IMG_ALT": "应用徽标",
+            "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
+            "APPLICATION_TICK_OFFICIAL": "这是官方的Intellivoid应用程序/服务",
+            "APPLICATION_TICK_UNTRUSTED": "这是不信任和不安全的",
+            "HEADER_TEXT": "成功认证",
+            "SUB_HEADER_TEXT": "%s正在处理您的请求"
         },
         "confirm_subscription_purchase": {
             "PAGE_TITLE": "Confirm Subscription Purchase",
