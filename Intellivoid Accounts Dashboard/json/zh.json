@@ -670,11 +670,11 @@
             "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "发送反馈"
         },
         "feedback_modal": {
-            "FEEDBACK_DIALOG_TITLE": "Send Feedback",
-            "FEEDBACK_DIALOG_MESSAGE_LABEL": "Message",
-            "FEEDBACK_DIALOG_MESSAGE_PLACEHOLDER": "Write your message here and we will get back to you as soon as possible via Email",
-            "FEEDBACK_DIALOG_CANCEL_BUTTON": "Cancel",
-            "FEEDBACK_DIALOG_SUBMIT_BUTTON": "Send"
+            "FEEDBACK_DIALOG_TITLE": "发送反馈",
+            "FEEDBACK_DIALOG_MESSAGE_LABEL": "信息",
+            "FEEDBACK_DIALOG_MESSAGE_PLACEHOLDER": "在此处写下您的消息，我们将尽快通过电子邮件与您联系",
+            "FEEDBACK_DIALOG_CANCEL_BUTTON": "取消",
+            "FEEDBACK_DIALOG_SUBMIT_BUTTON": "发送"
         },
         "gen_dashboard_navbar": {
             "NAV_MENU_LINK_HOME": "Home"
