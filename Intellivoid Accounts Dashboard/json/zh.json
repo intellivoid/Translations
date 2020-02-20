@@ -131,16 +131,16 @@
             "AUDIT_NO_ITEMS": "没有相关产品"
         },
         "authentication_code": {
-            "PAGE_TITLE": "Authentication Code",
-            "AUTHENTICATION_CARD_TITLE": "Sign in with Intellivoid Accounts",
-            "USER_IMG_ALT": "User Avatar",
-            "APP_IMG_ALT": "Application Logo",
-            "APPLICATION_TICK_VERIFIED": "This is verified & trusted",
-            "APPLICATION_TICK_OFFICIAL": "This is an official Intellivoid Application/Service",
-            "APPLICATION_TICK_UNTRUSTED": "This is untrusted and unsafe",
-            "HEADER_TEXT": "This application requires you to enter an access code in order to authenticate. You can copy the code shown below",
-            "ACCESS_TOKEN_LABEL": "Access Token",
-            "SUBMIT_BUTTON": "Done"
+            "PAGE_TITLE": "验证码",
+            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid帐户登录",
+            "USER_IMG_ALT": "用户头像",
+            "APP_IMG_ALT": "应用徽标",
+            "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
+            "APPLICATION_TICK_OFFICIAL": "这是官方的Intellivoid应用程序/服务",
+            "APPLICATION_TICK_UNTRUSTED": "这是不信任和不安全的",
+            "HEADER_TEXT": "此应用程序要求您输入访问代码以进行身份​​验证。您可以复制下面显示的代码",
+            "ACCESS_TOKEN_LABEL": "访问令牌",
+            "SUBMIT_BUTTON": "完成"
         },
         "authentication_success": {
             "PAGE_TITLE": "Authentication Successful",
