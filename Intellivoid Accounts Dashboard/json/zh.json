@@ -404,15 +404,15 @@
             "CALLBACK_115": "访问被拒绝，该应用程序当前已暂停"
         },
         "manage_subscriptions": {
-            "PAGE_TITLE": "Manage Subscriptions",
-            "SUBSCRIPTIONS_HEADER": "Subscriptions",
-            "SUBSCRIPTION_BILLING": "You will be billed $%cp USD on %nbc",
-            "SUBSCRIPTION_START": "Started on: %s",
-            "CANCEL_SUBSCRIPTION_BUTTON": "Cancel Subscription",
-            "NO_ITEMS": "No Items",
-            "CALLBACK_100": "The requested resource was not found or does not exist",
-            "CALLBACK_101": "There was an error while trying to process your request",
-            "CALLBACK_102": "Your subscription has been canceled successfully"
+            "PAGE_TITLE": "管理订阅",
+            "SUBSCRIPTIONS_HEADER": "订阅内容",
+            "SUBSCRIPTION_BILLING": "您将在%nbc上被收取$%cp USD的费用",
+            "SUBSCRIPTION_START": "开始于：%s",
+            "CANCEL_SUBSCRIPTION_BUTTON": "取消订阅",
+            "NO_ITEMS": "没有相关产品",
+            "CALLBACK_100": "找不到或不存在请求的资源",
+            "CALLBACK_101": "尝试处理您的请求时出错",
+            "CALLBACK_102": "您的订阅已成功取消"
         },
         "personal": {
             "PAGE_TITLE": "Personal Information",
