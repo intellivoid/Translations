@@ -242,9 +242,9 @@
             "CALLBACK_113": "感谢您的反馈意见！"
         },
         "internal_authentication": {
-            "PAGE_TITLE": "Internal Authentication",
-            "PAGE_HEADER": "Internal Authentication",
-            "PAGE_DESCRIPTION": "The code below is a one-time generated login code associated with your account, this is used for internal services. Staff will never ask for this code, you should not give this code to anyone. This code will expire in 5 minutes."
+            "PAGE_TITLE": "内部认证",
+            "PAGE_HEADER": "内部认证",
+            "PAGE_DESCRIPTION": "下面的代码是与您的帐户关联的一次性生成的登录代码，用于内部服务。员工绝不会要求此代码，您不应将此代码提供给任何人。该代码将在5分钟后过期。"
         },
         "landing_page": {
             "PAGE_TITLE": "Intellivoid Accounts",
