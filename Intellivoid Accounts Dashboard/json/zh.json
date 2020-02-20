@@ -546,15 +546,15 @@
             "CALLBACK_100": "指定的验证码不正确/已过期"
         },
         "setup_recovery_codes": {
-            "PAGE_TITLE": "Setup Recovery Codes",
-            "CARD_TITLE": "Recovery Codes Verification",
-            "CARD_DESCRIPTION": "These are one-time use recovery codes for accessing your account, this is important if you lose access to your phone or cannot verify using other methods. These codes are meant to be written down, and are case-sensitive.",
-            "CONFIRM_BUTTON": "Confirm",
-            "CONFIRMATION_DIALOG_TITLE": "Confirmation",
-            "CONFIRMATION_DIALOG_BODY": "You can generate these codes again by disabling Recovery Codes and Enabling it again, but each code can only be used once! Make sure you wrote them down somewhere or saved it in a safe place.",
-            "CONFIRMATION_DIALOG_CANCEL_BUTTON": "Cancel",
-            "CONFIRMATION_DIALOG_SUBMIT_BUTTON": "Done",
-            "CALLBACK_100": "Mobile verification has been enabled on your account, it's highly recommended to setup Recovery Codes in the case that you lose your device"
+            "PAGE_TITLE": "设置恢复代码",
+            "CARD_TITLE": "恢复码验证",
+            "CARD_DESCRIPTION": "这些是用于访问帐户的一次性使用恢复代码，如果您无法访问手机或无法使用其他方法进行验证，则这很重要。这些代码应记录下来，并且区分大小写。",
+            "CONFIRM_BUTTON": "确认",
+            "CONFIRMATION_DIALOG_TITLE": "确认书",
+            "CONFIRMATION_DIALOG_BODY": "您可以通过禁用恢复代码并再次启用它来再次生成这些代码，但是每个代码只能使用一次！确保将它们写下来或保存在安全的地方。",
+            "CONFIRMATION_DIALOG_CANCEL_BUTTON": "取消",
+            "CONFIRMATION_DIALOG_SUBMIT_BUTTON": "完成",
+            "CALLBACK_100": "您的帐户已启用了移动验证功能，强烈建议您在丢失设备的情况下设置恢复代码"
         },
         "sudo": {
             "PAGE_TITLE": "Sudo Mode",
