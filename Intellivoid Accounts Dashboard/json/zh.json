@@ -609,14 +609,14 @@
             "CALLBACK_101": "验证码不正确"
         },
         "verify_recovery_code": {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Verification",
-            "SUB_HEADER": "Enter a one-time use recovery code",
-            "RECOVERY_CODE_LABEL": "Recovery Code",
-            "RECOVERY_CODE_PLACEHOLDER": "Recovery Code",
-            "SUBMIT_BUTTON": "Verify",
-            "CALLBACK_100": "There was a problem with your request, please make sure your browser is up to date.",
-            "CALLBACK_101": "Incorrect or already used recovery code"
+            "PAGE_TITLE": "验证身份验证",
+            "HEADER": "验证",
+            "SUB_HEADER": "输入一次性使用恢复码",
+            "RECOVERY_CODE_LABEL": "恢复码",
+            "RECOVERY_CODE_PLACEHOLDER": "恢复码",
+            "SUBMIT_BUTTON": "校验",
+            "CALLBACK_100": "您的请求存在问题，请确保您的浏览器是最新的。",
+            "CALLBACK_101": "错误或已使用的恢复代码"
         },
         "verify_telegram": {
             "PAGE_TITLE": "Verify Authentication",
