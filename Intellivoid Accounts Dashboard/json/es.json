@@ -22,7 +22,7 @@
             "PAGE_TITLE": "Saldo de tu cuentaAccount Balance",
             "BALANCE_TITLE": "Saldo de tu cuenta",
             "BALANCE_ADD_LINK": "Añadir al saldo",
-            "ADD_MESSAGE_P1": " Puedes añadir fondos a tu cuenta Intellivoid pero esos fondos no pueden ser retirados o trasnferidos a otra cuenta Intellivoid, como es explicado en nuestros terminos de servicio.",
+            "ADD_MESSAGE_P1": " Puedes añadir fondos a tu cuenta Intellivoid pero esos fondos no pueden ser retirados o trasnferidos a otra cuenta Intellivoid, como es explicado en nuestros términos de servicio.",
             "ADD_MESSAGE_P2": "Este proceso es procesado manualmente por Intellivoid y puede tomar hasta 48 horas para ser procesado.",
             "ADD_MESSAGE_P3": "Tu correo de PayPal debe ser el mismo que el de tu cuenta Intellivoid, si no son iguales, la transacción fallará",
             "UPDATE_EMAIL_BUTTON": "Actualiza tu correo electronico",
@@ -58,9 +58,9 @@
             "PERMISSIONS_TELEGRAM_NOTIFICATIONS_TEXT": "Enviar notificaciones via Telegram",
             "PERMISSIONS_MAKE_PURCHASES_TOOLTIP": "Te permite hacer compras o activar subscripciones usando el saldo en tu cuentaAllows you to make purchases or activate subscriptions using your Account Balance (Intellivoid Only)",
             "PERMISSIONS_MAKE_PURCHASE_TEXT": "Solicitar compras",
-            "AUTHENTICATION_NOTICE_OFFICIAL": "Seleccionado Autenticar, te estás autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta es una aplicación/servicio oficial de Intellivoid, cualquier información o permiso que vas a otorgar serán usados en base a los terminos de servicio y politicas de privacidad de Intellivoid los cuales pueden ser visto en las páginas de cada aplicación. Puedes revokar el acceso cuando quieras via Intellivoid Accounts",
-            "AUTHENTICATION_NOTICE_VERIFIED": "Selecionando Autenticar, te estás autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta aplicación ha sido verificada por Intellivoid, pero, esta no es una aplicación/servicio oficial de Intellivoid, cualquier información/permiso que otorges va a ser usado en base a los terminos de servicio y politicas de privacidad de la aplicación si tienen una. Puedes revokar el acceso cuando quieras via Intellivoid Accounts",
-            "AUTHENTICATION_NOTICE_GENERIC": "Selecionando Autentica, te estas autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta no es una aplicación oficial de Intellivoid, cualquier información o permiso que vas otorges va a ser usado en base a los terminos de servicio y politicas de privacidad de la aplicación si tienen una. Puedes revokar el acceso cuando quieras via Intellivoid Accountss",
+            "AUTHENTICATION_NOTICE_OFFICIAL": "Seleccionado Autenticar, te estás autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta es una aplicación/servicio oficial de Intellivoid, cualquier información o permiso que vas a otorgar serán usados en base a los términos de servicio y politicas de privacidad de Intellivoid los cuales pueden ser visto en las páginas de cada aplicación. Puedes revokar el acceso cuando quieras via Intellivoid Accounts",
+            "AUTHENTICATION_NOTICE_VERIFIED": "Selecionando Autenticar, te estás autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta aplicación ha sido verificada por Intellivoid, pero, esta no es una aplicación/servicio oficial de Intellivoid, cualquier información/permiso que otorges va a ser usado en base a los términos de servicio y politicas de privacidad de la aplicación si tienen una. Puedes revokar el acceso cuando quieras via Intellivoid Accounts",
+            "AUTHENTICATION_NOTICE_GENERIC": "Selecionando Autentica, te estas autenticando a %s con los permisos que deseas otorgar a esta aplicación/servicio. Esta no es una aplicación oficial de Intellivoid, cualquier información o permiso que vas otorges va a ser usado en base a los términos de servicio y politicas de privacidad de la aplicación si tienen una. Puedes revokar el acceso cuando quieras via Intellivoid Accountss",
             "AUTHENTICATION_AUTHENTICATE_BUTTON": "Autenticar"
         },
         "application_error": {
@@ -483,7 +483,7 @@
             "NEW_PASSWORD_LABEL": "Contraseña NuevaNew Password",
             "NEW_PASSWORD_PLACEHOLDER": "Introduce tu nueva contraseña",
             "CHANGE_PASSWORD_BUTTON": "Cambiar contraseña",
-            "FOOTER_NOT_USER_TEXT": "¿No %s?",
+            "FOOTER_NOT_USER_TEXT": "¿No eres %s?",
             "FOOTER_NOT_USER_LOGOUT_LINK": "Cerrar sesión",
             "CALLBACK_100": "Hubo un problema con tu solicitud, asegurate de que estás usando un navegador actualizado",
             "CALLBACK_101": "La contraseña dada es inválida, tiene que tener una longitud superior a 8 caracteres pero menos de 128",
@@ -582,122 +582,122 @@
         },
         "verify":
         {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Verification",
-            "SUB_HEADER": "To protect your account from unauthorized access, verify your login",
-            "VERIFICATION_METHOD_TELEGRAM": "Telegram Prompt",
-            "VERIFICATION_METHOD_MOBILE": "Verify using your Phone",
-            "VERIFICATION_METHOD_RECOVERY": "Use a recovery code",
-            "FOOTER_NOT_USER_TEXT": "Not %s?",
-            "FOOTER_NOT_USER_LOGOUT_LINK": "Logout",
-            "CALLBACK_100": "This method of verification is not available right now",
-            "CALLBACK_101": "There was an error while trying to process your request",
-            "CALLBACK_102": "Too many authentication attempts, try again later",
-            "CALLBACK_103": "There was an issue while trying to send an Authentication Prompt",
-            "CALLBACK_104": "Unable to verify prompt authentication",
-            "CALLBACK_105": "The authentication prompt has been denied",
-            "CALLBACK_106": "The authentication prompt has expired"
+            "PAGE_TITLE": "Verificar autenticación",
+            "HEADER": "Verificación",
+            "SUB_HEADER": "Para proteger tu cuenta de acceso no autorizado, verifica tu inicio de sesión",
+            "VERIFICATION_METHOD_TELEGRAM": "Mensaje de Telegram",
+            "VERIFICATION_METHOD_MOBILE": "Verificar usando tu teléfono",
+            "VERIFICATION_METHOD_RECOVERY": "Usar un código de recuperación",
+            "FOOTER_NOT_USER_TEXT": "¿No eres %s?",
+            "FOOTER_NOT_USER_LOGOUT_LINK": "Cerrar sesión",
+            "CALLBACK_100": "Este método de verificación no está disponible en este momento",
+            "CALLBACK_101": "Hubo un error al intentar procesar tu petición",
+            "CALLBACK_102": "Demasiados intentos de autenticación, intentalo de nuevo más tarde",
+            "CALLBACK_103": "Hubo un error intentando mandar un mensaje de autenticación",
+            "CALLBACK_104": "No fue posible verificar tu mensaje de autenticación",
+            "CALLBACK_105": "El mensaje de autenticación ha sido denegado",
+            "CALLBACK_106": "El mensaje de autenticación ha expirado"
         },
         "verify_mobile": {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Verification",
-            "SUB_HEADER": "Enter the code generated by your Authentication App from your phone",
-            "VERIFICATION_CODE_LABEL": "Verification Code",
-            "VERIFICATION_CODE_PLACEHOLDER": "Verification Code",
-            "SUBMIT_BUTTON": "Verify",
-            "CALLBACK_100": "There was a problem with your request, please make sure your browser is up to date.",
-            "CALLBACK_101": "Incorrect verification code"
+            "PAGE_TITLE": "Verificar autenticación",
+            "HEADER": "Verificación",
+            "SUB_HEADER": "Introduce el código generado por tu app de autenticación de tu teléfono",
+            "VERIFICATION_CODE_LABEL": "Código de verificación",
+            "VERIFICATION_CODE_PLACEHOLDER": "Código de verificación",
+            "SUBMIT_BUTTON": "Verificar",
+            "CALLBACK_100": "Hubo un problema con tu solicitud, asegurate de que estás usando un navegador actualizado.",
+            "CALLBACK_101": "Código de verificación incorrecto"
         },
         "verify_recovery_code": {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Verification",
-            "SUB_HEADER": "Enter a one-time use recovery code",
-            "RECOVERY_CODE_LABEL": "Recovery Code",
-            "RECOVERY_CODE_PLACEHOLDER": "Recovery Code",
-            "SUBMIT_BUTTON": "Verify",
-            "CALLBACK_100": "There was a problem with your request, please make sure your browser is up to date.",
-            "CALLBACK_101": "Incorrect or already used recovery code"
+            "PAGE_TITLE": "Verificar autenticación",
+            "HEADER": "Verificación",
+            "SUB_HEADER": "Introducir un código de verificación de un solo uso",
+            "RECOVERY_CODE_LABEL": "Código de recuperación",
+            "RECOVERY_CODE_PLACEHOLDER": "Código de recuperación",
+            "SUBMIT_BUTTON": "Verificar",
+            "CALLBACK_100": "Hubo un problema con tu solicitud, asegurate de que estás usando un navegador actualizado.",
+            "CALLBACK_101": "Código de verificación incorrecto o ya usado"
         },
         "verify_telegram": {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Telegram Prompt",
-            "SUB_HEADER": "Check your Telegram Account for a Authentication Prompt"
+            "PAGE_TITLE": "Verificar autenticación Authentication",
+            "HEADER": "Mensaje de Telegram",
+            "SUB_HEADER": "Comprueba tu cuenta de Telegram por un mensaje de autenticación"
         },
         "view_invoice": {
-            "PAGE_TITLE": "Invoice #IV-%s",
-            "INVOICE_HEADER": "Invoice #IV-%s",
-            "INVOICE_VENDOR_ID": "Vendor ID:",
-            "INVOICE_TO": "Invoice to",
-            "INVOICE_DATE": "Invoice Date: %s",
-            "INVOICE_DESCRIPTION": "Description",
-            "INVOICE_QUANTITY": "Quantity",
-            "INVOICE_UNIT_COST": "Unit Cost",
+            "PAGE_TITLE": "Factura #IV-%s",
+            "INVOICE_HEADER": "Factura #IV-%s",
+            "INVOICE_VENDOR_ID": "ID del vendedor:",
+            "INVOICE_TO": "Factura a",
+            "INVOICE_DATE": "Fecha de facturación: %s",
+            "INVOICE_DESCRIPTION": "Descripción",
+            "INVOICE_QUANTITY": "Cantidad",
+            "INVOICE_UNIT_COST": "Coste de unidad",
             "INVOICE_TOTAL": "Total"
         }
     },
     "sections": {
         "auth_footer": {
-            "AUTH_FOOTER_PRIVACY_LINK": "Privacy",
-            "AUTH_FOOTER_TOS_LINK": "Terms",
+            "AUTH_FOOTER_PRIVACY_LINK": "Privacidad",
+            "AUTH_FOOTER_TOS_LINK": "Términos",
             "AUTH_FOOTER_CONTACT_LINK": "Contact us"
         },
         "change_avatar_modal": {
-            "CHANGE_AVATAR_DIALOG_TITLE": "Change Avatar",
-            "CHANGE_AVATAR_DIALOG_HINT": "JPEG or PNG Images that are 128x128px or larger are acceptable uploads",
-            "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "Cancel",
-            "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "Upload"
+            "CHANGE_AVATAR_DIALOG_TITLE": "Cambiar Avatar",
+            "CHANGE_AVATAR_DIALOG_HINT": "Imágenes JPEG o PNG que son 128x128px o mayores son aceptadas",
+            "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "Cancelar",
+            "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "Subir"
         },
         "dashboard_navbar": {
-            "USER_DROPDOWN_MANAGE_APPLICATIONS": "Manage Applications",
-            "USER_DROPDOWN_CHANGE_PASSWORD": "Change Password",
-            "USER_DROPDOWN_CHANGE_AVATAR": "Change Avatar",
-            "USER_DROPDOWN_LOGOUT": "Logout",
-            "NAV_MENU_LINK_OVERVIEW": "Overview",
+            "USER_DROPDOWN_MANAGE_APPLICATIONS": "Gestionar aplicaciones",
+            "USER_DROPDOWN_CHANGE_PASSWORD": "Cambiar contraseña",
+            "USER_DROPDOWN_CHANGE_AVATAR": "Cambiar avatar",
+            "USER_DROPDOWN_LOGOUT": "Cerrar sesión",
+            "NAV_MENU_LINK_OVERVIEW": "Visión general",
             "NAV_MENU_LINK_PERSONAL": "Personal",
-            "NAV_MENU_LINK_SECURITY": "Security",
-            "NAV_MENU_DROPDOWN_SECURITY_AUTHORIZED_APPS": "Authorized Apps",
-            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_HISTORY": "Login History",
-            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_SECURITY": "Login",
-            "NAV_MENU_DROPDOWN_SECURITY_INTERNAL_AUTH": "Internal Auth",
-            "NAV_MENU_DROPDOWN_SECURITY_UPDATE_PASSWORD": "Update Password",
-            "NAV_MENU_LINK_FINANCE": "Finance",
-            "NAV_MENU_DROPDOWN_FINANCE_ACCOUNT_BALANCE": "Account Balance",
-            "NAV_MENU_DROPDOWN_FINANCE_TRANSACTION_HISTORY": "Transaction History",
-            "NAV_MENU_DROPDOWN_FINANCE_SUBSCRIPTIONS": "Subscriptions",
-            "NAV_MENU_LINK_SUPPORT": "Support",
-            "NAV_MENU_DROPDOWN_SUPPORT_PRIVACY": "Privacy Policy",
-            "NAV_MENU_DROPDOWN_SUPPORT_TERMS_OF_SERVICE": "Terms of Service",
-            "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "Send Feedback"
+            "NAV_MENU_LINK_SECURITY": "Seguridad",
+            "NAV_MENU_DROPDOWN_SECURITY_AUTHORIZED_APPS": "Apps autorizadas",
+            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_HISTORY": "Historial de inicio de sesión",
+            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_SECURITY": "Iniciar sesión",
+            "NAV_MENU_DROPDOWN_SECURITY_INTERNAL_AUTH": "Autenticación interna",
+            "NAV_MENU_DROPDOWN_SECURITY_UPDATE_PASSWORD": "Cambiar contraseña",
+            "NAV_MENU_LINK_FINANCE": "Finanzas",
+            "NAV_MENU_DROPDOWN_FINANCE_ACCOUNT_BALANCE": "Balance de la cuenta",
+            "NAV_MENU_DROPDOWN_FINANCE_TRANSACTION_HISTORY": "Historial de transacciones",
+            "NAV_MENU_DROPDOWN_FINANCE_SUBSCRIPTIONS": "Subscripciones",
+            "NAV_MENU_LINK_SUPPORT": "Soporte",
+            "NAV_MENU_DROPDOWN_SUPPORT_PRIVACY": "Políticas de privacidad",
+            "NAV_MENU_DROPDOWN_SUPPORT_TERMS_OF_SERVICE": "Términos de servicio",
+            "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "Mandar Feedback"
         },
         "feedback_modal": {
-            "FEEDBACK_DIALOG_TITLE": "Send Feedback",
-            "FEEDBACK_DIALOG_MESSAGE_LABEL": "Message",
-            "FEEDBACK_DIALOG_MESSAGE_PLACEHOLDER": "Write your message here and we will get back to you as soon as possible via Email",
-            "FEEDBACK_DIALOG_CANCEL_BUTTON": "Cancel",
-            "FEEDBACK_DIALOG_SUBMIT_BUTTON": "Send"
+            "FEEDBACK_DIALOG_TITLE": "Mandar Feedback",
+            "FEEDBACK_DIALOG_MESSAGE_LABEL": "Mensaje",
+            "FEEDBACK_DIALOG_MESSAGE_PLACEHOLDER": "Escribe tu mensaje aquí y nosotros responderemos lo antes posible via Email",
+            "FEEDBACK_DIALOG_CANCEL_BUTTON": "Cancelar",
+            "FEEDBACK_DIALOG_SUBMIT_BUTTON": "Mandar"
         },
         "gen_dashboard_navbar": {
-            "NAV_MENU_LINK_HOME": "Home"
+            "NAV_MENU_LINK_HOME": "Inicio"
         },
         "landing_footer": {
-            "FOOTER_MENU_LINK_PRIVACY": "Privacy Policies",
-            "FOOTER_MENU_LINK_TOS": "Terms of Service",
-            "FOOTER_MENU_LINK_DOCUMENTATION": "Documentation"
+            "FOOTER_MENU_LINK_PRIVACY": "Políticas de privacidad",
+            "FOOTER_MENU_LINK_TOS": "Términos de servicio",
+            "FOOTER_MENU_LINK_DOCUMENTATION": "Documentación"
         },
         "landing_navbar": {
-            "NAV_MENU_LINK_LOGIN": "Login",
-            "NAV_MENU_LINK_CREATE_ACCOUNT": "Create an Account"
+            "NAV_MENU_LINK_LOGIN": "Iniciar sesión",
+            "NAV_MENU_LINK_CREATE_ACCOUNT": "Crear una cuenta"
         },
         "reset_password_modal": {
-            "RESET_PASSWORD_DIALOG_TITLE": "Update Password",
-            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_LABEL": "Current Password",
-            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_PLACEHOLDER": "Enter your current password",
-            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_LABEL": "New Password",
-            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_PLACEHOLDER": "Enter your new password",
-            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_LABEL": "Repeat Password",
-            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_PLACEHOLDER": "Repeat your new password",
-            "RESET_PASSWORD_DIALOG_CANCEL_BUTTON": "Cancel",
-            "RESET_PASSWORD_DIALOG_SUBMIT_BUTTON": "Update"
+            "RESET_PASSWORD_DIALOG_TITLE": "Cambiar contraseña",
+            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_LABEL": "Contraseña actual",
+            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_PLACEHOLDER": "Introduce tu contraseña actual",
+            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_LABEL": "Nueva contraseña",
+            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_PLACEHOLDER": "Introduce tu nueva contraseña",
+            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_LABEL": "Repetir contraseña",
+            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_PLACEHOLDER": "Repetir tu nueva contraseña",
+            "RESET_PASSWORD_DIALOG_CANCEL_BUTTON": "Cancelar",
+            "RESET_PASSWORD_DIALOG_SUBMIT_BUTTON": "Actualizar"
         }
     }
 }
