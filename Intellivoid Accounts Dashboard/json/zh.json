@@ -689,15 +689,15 @@
             "NAV_MENU_LINK_CREATE_ACCOUNT": "创建一个帐户"
         },
         "reset_password_modal": {
-            "RESET_PASSWORD_DIALOG_TITLE": "Update Password",
-            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_LABEL": "Current Password",
-            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_PLACEHOLDER": "Enter your current password",
-            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_LABEL": "New Password",
-            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_PLACEHOLDER": "Enter your new password",
-            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_LABEL": "Repeat Password",
-            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_PLACEHOLDER": "Repeat your new password",
-            "RESET_PASSWORD_DIALOG_CANCEL_BUTTON": "Cancel",
-            "RESET_PASSWORD_DIALOG_SUBMIT_BUTTON": "Update"
+            "RESET_PASSWORD_DIALOG_TITLE": "更新密码",
+            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_LABEL": "当前密码",
+            "RESET_PASSWORD_DIALOG_CURRENT_PASSWORD_PLACEHOLDER": "输入当前密码",
+            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_LABEL": "新密码",
+            "RESET_PASSWORD_DIALOG_NEW_PASSWORD_PLACEHOLDER": "输入新密码",
+            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_LABEL": "重复输入密码",
+            "RESET_PASSWORD_DIALOG_REPEAT_PASSWORD_PLACEHOLDER": "重复您的新密码",
+            "RESET_PASSWORD_DIALOG_CANCEL_BUTTON": "取消",
+            "RESET_PASSWORD_DIALOG_SUBMIT_BUTTON": "更新资料"
         }
     }
 }
