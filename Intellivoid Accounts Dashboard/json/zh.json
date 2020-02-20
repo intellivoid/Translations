@@ -472,8 +472,8 @@
             "CARD_DESCRIPTION": "尝试验证或处理您的购买请求/流程时出现问题，请稍后再试或报告以获取支持"
         },
         "purchase_success": {
-            "PAGE_TITLE": "Purchase Successful",
-            "CARD_HEADER": "Purchase Successful",
+            "PAGE_TITLE": "购买成功",
+            "CARD_HEADER": "购买成功",
             "CARD_DESCRIPTION": "Your purchase has been processed successfully, you may now close this window."
         },
         "recover_password": {
