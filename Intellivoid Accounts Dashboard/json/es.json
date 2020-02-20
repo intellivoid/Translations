@@ -487,7 +487,7 @@
             "FOOTER_NOT_USER_LOGOUT_LINK": "Cerrar sesión",
             "CALLBACK_100": "Hubo un problema con tu solicitud, asegurate de que estás usando un navegador actualizado",
             "CALLBACK_101": "La contraseña dada es inválida, tiene que tener una longitud superior a 8 caracteres pero menos de 128",
-            "CALLBACK_102": "Hubo un error al intentar procesar tu petiición, intentalo	de nuevo más tarde."
+            "CALLBACK_102": "Hubo un error al intentar procesar tu petiición, intentalo de nuevo más tarde."
         },
         "register": {
             "PAGE_TITLE": "Intellivoid Accounts - Registrarse",
