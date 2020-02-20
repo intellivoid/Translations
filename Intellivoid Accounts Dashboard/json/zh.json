@@ -462,9 +462,9 @@
             "CALLBACK_119": "您的电子邮件地址已成功更新"
         },
         "privacy": {
-            "PAGE_TITLE": "Intellivoid Accounts - Privacy Policies",
-            "CARD_HEADER": "Privacy Policy for Intellivoid Accounts",
-            "CARD_DESCRIPTION": "This page explains the privacy policies for Intellivoid Accounts"
+            "PAGE_TITLE": "Intellivoid Accounts - 私隐政策",
+            "CARD_HEADER": "Intellivoid帐户的隐私政策",
+            "CARD_DESCRIPTION": "本页说明Intellivoid帐户的隐私政策"
         },
         "purchase_failure": {
             "PAGE_TITLE": "Purchase Failure",
