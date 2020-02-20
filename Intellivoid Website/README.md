@@ -12,7 +12,7 @@ pages and imported sections.
 |----------------------|----------------|----------------------|------------------------------------------------|
 | English              | Feb 16, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
 | Spanish              | Feb 17, 2020   | No                   | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| Turkish              | Feb 17, 2020   | Yes (Missing MD)     | [M.Furkan](https://github.com/muhammedfurkan)  |
+| Turkish              | Feb 18, 2020   | No                   | [M.Furkan](https://github.com/muhammedfurkan)  |
 
 ## Example Document
 ```json
