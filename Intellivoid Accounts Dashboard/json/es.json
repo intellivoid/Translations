@@ -491,7 +491,7 @@
         },
         "register": {
             "PAGE_TITLE": "Intellivoid Accounts - Registrarse",
-            "AUTHENTICATION_SUB_HEADER": "Crear una nueva cuenta de Intellivoid Account",
+            "AUTHENTICATION_SUB_HEADER": "Crear una nueva cuenta de Intellivoid",
             "EMAIL_ADDRESS_LABEL": "Dirección Email",
             "USERNAME_LABEL": "Usuario",
             "PASSWORD_LABEL": "Contraseña",
