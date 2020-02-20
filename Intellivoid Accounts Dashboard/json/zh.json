@@ -570,9 +570,9 @@
             "PAGE_SUB_HEADER": "本页说明我们的Intellivoid帐户服务条款"
         },
         "transaction_history": {
-            "PAGE_TITLE": "Transaction History",
-            "CARD_TITLE": "Transaction History",
-            "NO_ITEMS": "No transactions ",
+            "PAGE_TITLE": "交易记录",
+            "CARD_TITLE": "交易记录",
+            "NO_ITEMS": "没有交易",
             "VIEW_INVOICE_LINK": "View Invoice"
         },
         "transaction_success": {
