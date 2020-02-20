@@ -1,0 +1,92 @@
+{
+    "language": {
+        "name": "turkish",
+        "iso_639-1": "tr"
+    },
+    "pages": {
+        "index": {
+            "PAGE_TITLE": "Intellivoid",
+            "HEADER_TITLE": "Karmaşık görevlerin çözümü biziz",
+            "HEADER_SUB": "Diğerlerinden farklı olarak, en iyisini ve sadece en iyisini yaratmak için zaman ayırıyoruz.",
+            "SECTION_ACOUNTS_HEADER": "Intellivoid Hesapları",
+            "SECTION_ACCOUNTS_SUB_HEADER": "Kimlik doğrulama için ikinci nesil burada",
+            "SECTION_ACCOUNTS_OPEN_BUTTON": "Intellivoid Hesaplarını Aç",
+            "SECTION_ACCOUNTS_PRIVACY_BUTTON": "Gizlilik Politikası",
+            "SECTION_ACCOUNTS_HINT": "Bugün gizliliğinizi geri alın",
+            "SECTION_OPENBLU_SERVERS": "Sunucular",
+            "SECTION_OPENBLU_CONNECTED_USERS": "Bağlı Kullanıcılar",
+            "SECTION_OPENBLU_FREE": "Ücretsiz",
+            "SECTION_OPENBLU_ACCESS": "Erişim",
+            "SECTION_OPENBLU_HEADER": "OpenBlu VPN",
+            "SECTION_OPENBLU_DESC": "İyi belgelenmiş API Erişimi olan gönüllüler tarafından desteklenen sağlam ve ücretsiz bir VPN Hizmeti",
+            "SECTION_OPENBLU_FEATURE_1": "Tüm VPN Sunucularında Standart Şifreleme",
+            "SECTION_OPENBLU_FEATURE_2": "İyi belgelenmiş Yapılandırma Dosyaları",
+            "SECTION_OPENBLU_FEATURE_3": "Erişim satın almadan önce API'yı deneyin",
+            "SECTION_OPENBLU_OPEN_APPLICATION_BUTTON": "Web Uygulamasını Aç",
+            "SECTION_COFFEEHOUSE_HEADER": "CoffeeHouse",
+            "SECTION_COFFEEHOUSE_DESC": "Herkes için çok amaçlı bulut tabanlı yapay zeka ve makine öğrenimi hizmeti",
+            "SECTION_COFFEEHOUSE_FEATURE_1": "Gelişmiş makine öğrenme sohbet botu",
+            "SECTION_COFFEEHOUSE_FEATURE_2": "Birçok proje tarafından kullanılan açık kaynaklı API sarmalayıcılar",
+            "SECTION_COFFEEHOUSE_FEATURE_3": "Kişisel kullanım için ücretsiz",
+            "SECTION_COFFEEHOUSE_OPEN_COFFEEHOUSE_BUTTON": "CoffeeHouse'u Aç",
+            "SECTION_COFFEEHOUSE_CHATS": "Sohbetler",
+            "SECTION_COFFEEHOUSE_PROJECTS": "Projeler",
+            "SECTION_NETLENIUM_HEADER": "Netlenium Framework",
+            "SECTION_NETLENIUM_DESC_1": "Testler oluşturmak, karmaşık görevleri otomatikleştirmek veya karmaşık javascript veya web bileşenleriyle uğraşmadan verileri izlemek için tasarlanmış çapraz platform ve bulut tabanlı tarayıcı otomasyon çerçevesi",
+            "SECTION_NETLENIUM_DESC_2": "Bu devam eden bir proje, gelecekte daha fazla bilgi yayınlanacak",
+            "SECTION_NETLENIUM_BUTTON": "Yakında"
+        },
+        "contact": {
+            "PAGE_TITLE": "Intellivoid - Bize Ulaşın",
+            "HEADER_TITLE": "Bize Ulaşın",
+            "LABEL_EMAIL_ADDRESS": "E-posta Adresi",
+            "LABEL_SUBJECT": "Konu",
+            "SUBJECT_PLACEHOLDER": "Konu",
+            "LABEL_MESSAGE": "Mesaj",
+            "MESSAGE_PLACEHOLDER": "Mesajını buraya yaz ...",
+            "SUBMIT_BUTTON": "Gönder",
+            "FEATURE_1_TITLE": "Size geri döneceğiz!",
+            "FEATURE_1_DESC": "Bize ulaşmak hızlı ve acısızdır, gereksiz adımlar veya bilgi yoktur.",
+            "FEATURE_2_TITLE": "Bir sorunuz mu var?",
+            "FEATURE_2_DESC": "Onlara cevap vereceğiz! Genel veya kafa karıştırıcı yanıt yok. Destek ekibimizin arkasında herhangi bir AI kullanmıyoruz",
+            "CALLBACK_100": "İsteğinizle ilgili bir sorun oluştu, lütfen tarayıcınızın güncel olduğundan emin olun",
+            "CALLBACK_101": "Belirtilen e-posta adresi geçersiz",
+            "CALLBACK_102": "Verilen konu geçersiz, 5 karakterden fazla, 130'dan fazla olmamalıdır",
+            "CALLBACK_103": "Verilen Mesaj geçersiz, 20 karakterden büyük, 2500 karakterden büyük olmamalıdır",
+            "CALLBACK_104": "Raporunuzu işlemeye çalışırken bilinmeyen bir hata oluştu, lütfen Intellivoid'in bu sorunu çözmesini bekleyin",
+            "CALLBACK_105": "Raporunuz gönderildi, kısa süre içinde size ulaşacağız. Bilet numaranız #%s",
+            "CALLBACK_106": "Güvenlik kodu yanlış çözüldü"
+        },
+        "privacy": {
+            "PAGE_TITLE": "Intellivoid - Gizlilik Politikası",
+            "HEADER_TITLE": "Gizlilik Politikası"
+        },
+        "tos": {
+            "PAGE_TITLE": "Intellivoid - Kullanım Şartları",
+            "HEADER_TITLE": "Kullanım Şartları"
+        }
+    },
+    "sections": {
+        "landing_navbar": {
+            "NAVBAR_BRAND_TOOLTIP": "Tüketiciler ve İşletmeler için Yazılım ve Hizmetler",
+            "NAVBAR_TOGGLE_LABEL": "Gezinmeyi aç / kapat",
+            "NAVBAR_COMING_SOON_PLACEHOLDER": "(Yakında)",
+            "NAVBAR_SERVICES_DROPDOWN": "Servisler",
+            "NAVBAR_SUPPORT_DROPDOWN": "Destek",
+            "NAVBAR_SUPPORT_CONTACT_US": "Bize Ulaşın",
+            "NAVBAR_SUPPORT_PRIVACY_POLICY": "Gizlilik Politikası",
+            "NAVBAR_SUPPORT_TERMS_OF_SERVICE": "Kullanım Şartları",
+            "NAVBAR_SOCIAL_TWITTER_TOOLTIP": "Bizi Twitter'da Takip Edin",
+            "NAVBAR_SOCIAL_TELEGRAM_TOOLTIP": "Telegram'da bizimle sohbet edin",
+            "NAVBAR_SOCIAL_INSTAGRAM_TOOLTIP": "Bizi instagramda takip et",
+            "NAVBAR_SOCIAL_GITHUB_TOOLTIP": "Bizi Github'da bulun"
+        },
+        "landing_footer": {
+            "FOOTER_CONTACT_US": "Bize Ulaşın",
+            "FOOTER_PRIVACY_POLICY": "Gizlilik Politikası",
+            "FOOTER_TERMS_OF_SERVICE": "Kullanım Şartları",
+            "FOOTER_COMING_SOON_PLACEHOLDER": "(Yakında)",
+            "FOOTER_FOLLOW_US_TITLE": "Bizi takip et"
+        }
+    }
+}
