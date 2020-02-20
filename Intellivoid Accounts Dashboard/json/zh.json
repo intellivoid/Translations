@@ -573,12 +573,12 @@
             "PAGE_TITLE": "交易记录",
             "CARD_TITLE": "交易记录",
             "NO_ITEMS": "没有交易",
-            "VIEW_INVOICE_LINK": "View Invoice"
+            "VIEW_INVOICE_LINK": "查看发票"
         },
         "transaction_success": {
-            "PAGE_TITLE": "Purchase Successful",
-            "PAGE_HEADER": "Payment Successful",
-            "PAGE_SUB_HEADER": "Intellivoid is now going to process your transaction, this may take up to 48 hours."
+            "PAGE_TITLE": "购买成功",
+            "PAGE_HEADER": "支付成功",
+            "PAGE_SUB_HEADER": "Intellivoid现在将处理您的交易，这可能需要48个小时。"
         },
         "verify":
         {
