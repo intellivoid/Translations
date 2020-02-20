@@ -184,10 +184,10 @@
             "PAGE_CONTENT": "Intellivoid Accounts COA当前处于测试阶段，文档将很快提供。"
         },
         "gba_mode": {
-            "PAGE_TITLE": "Security Warning",
-            "HEADER_TITLE": "Government-backed Attack Protection",
-            "SUB_HEADER": "There seems to be a government-backed attack so we disabled your account for security reasons",
-            "PAGE_CONTENT": "We cannot disclose to you how this came to be, your account has been disabled to prevent access from you, us, others and third-party applications you've authenticated to before. Your account will be made available once we can determine that it is safe to use. This is an automated process where one or more attacks may have triggered this."
+            "PAGE_TITLE": "安全警告",
+            "HEADER_TITLE": "政府支持的攻击防护",
+            "SUB_HEADER": "似乎有政府支持的攻击，因此出于安全原因，我们禁用了您的帐户",
+            "PAGE_CONTENT": "我们无法向您透露情况，您的帐户已被禁用，以防止您，我们，他人和您之前通过身份验证的第三方应用程序访问。一旦我们确定可以安全使用您的帐户，便可以使用该帐户。这是一个自动过程，可能触发了一个或多个攻击。"
         },
         "index": {
             "PAGE_TITLE": "Intellivoid Accounts",
