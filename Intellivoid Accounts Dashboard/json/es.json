@@ -639,7 +639,7 @@
         "auth_footer": {
             "AUTH_FOOTER_PRIVACY_LINK": "Privacidad",
             "AUTH_FOOTER_TOS_LINK": "Términos",
-            "AUTH_FOOTER_CONTACT_LINK": "Contact us"
+            "AUTH_FOOTER_CONTACT_LINK": "Contacta con nosotros"
         },
         "change_avatar_modal": {
             "CHANGE_AVATAR_DIALOG_TITLE": "Cambiar Avatar",
