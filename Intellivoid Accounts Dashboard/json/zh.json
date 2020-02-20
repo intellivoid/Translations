@@ -474,20 +474,20 @@
         "purchase_success": {
             "PAGE_TITLE": "购买成功",
             "CARD_HEADER": "购买成功",
-            "CARD_DESCRIPTION": "Your purchase has been processed successfully, you may now close this window."
+            "CARD_DESCRIPTION": "您的购买已成功处理，您现在可以关闭此窗口。"
         },
         "recover_password": {
-            "PAGE_TITLE": "Password Recovery",
-            "PASSWORD_RECOVERY_CARD_TITLE": "New Password",
-            "PASSWORD_RECOVERY_CARD_SUB_HEADER": "Enter a new password that you will not forget",
-            "NEW_PASSWORD_LABEL": "New Password",
-            "NEW_PASSWORD_PLACEHOLDER": "Enter your new password",
-            "CHANGE_PASSWORD_BUTTON": "Change Password",
-            "FOOTER_NOT_USER_TEXT": "Not %s?",
-            "FOOTER_NOT_USER_LOGOUT_LINK": "Logout",
-            "CALLBACK_100": "There was an issue with your request, please make sure you are using an up to date browser",
-            "CALLBACK_101": "The given password is invalid, it must be greater than 8 characters but no greater than 128",
-            "CALLBACK_102": "There was an error while trying to process your request, try again later."
+            "PAGE_TITLE": "找回密码",
+            "PASSWORD_RECOVERY_CARD_TITLE": "新密码",
+            "PASSWORD_RECOVERY_CARD_SUB_HEADER": "输入您不会忘记的新密码",
+            "NEW_PASSWORD_LABEL": "新密码",
+            "NEW_PASSWORD_PLACEHOLDER": "输入新密码",
+            "CHANGE_PASSWORD_BUTTON": "更改密码",
+            "FOOTER_NOT_USER_TEXT": "不是%s？",
+            "FOOTER_NOT_USER_LOGOUT_LINK": "登出",
+            "CALLBACK_100": "您的请求存在问题，请确保您使用的是最新的浏览器",
+            "CALLBACK_101": "输入的密码无效，必须大于8个字符，但不能大于128个字符",
+            "CALLBACK_102": "尝试处理您的请求时出错，请稍后再试。"
         },
         "register": {
             "PAGE_TITLE": "Intellivoid Accounts - Register",
