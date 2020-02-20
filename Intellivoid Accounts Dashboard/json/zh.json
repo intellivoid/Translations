@@ -178,10 +178,10 @@
             "CALLBACK_104": "您的Intellivoid帐户中资金不足，请添加更多资金。"
         },
         "documentation": {
-            "PAGE_TITLE": "COA Documentation",
-            "HEADER_TITLE": "COA Documentation",
-            "SUB_HEADER": "This page explains how COA works and how you can use it in your own software",
-            "PAGE_CONTENT": "Intellivoid Accounts COA is currently in beta, documentation will be made available soon."
+            "PAGE_TITLE": "COA文件",
+            "HEADER_TITLE": "COA文件",
+            "SUB_HEADER": "本页说明COA的工作方式以及如何在自己的软件中使用它",
+            "PAGE_CONTENT": "Intellivoid Accounts COA当前处于测试阶段，文档将很快提供。"
         },
         "gba_mode": {
             "PAGE_TITLE": "Security Warning",
