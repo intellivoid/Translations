@@ -619,9 +619,9 @@
             "CALLBACK_101": "错误或已使用的恢复代码"
         },
         "verify_telegram": {
-            "PAGE_TITLE": "Verify Authentication",
-            "HEADER": "Telegram Prompt",
-            "SUB_HEADER": "Check your Telegram Account for a Authentication Prompt"
+            "PAGE_TITLE": "验证身份验证",
+            "HEADER": "电报提示",
+            "SUB_HEADER": "检查您的电报帐户是否有身份验证提示"
         },
         "view_invoice": {
             "PAGE_TITLE": "Invoice #IV-%s",
