@@ -30,7 +30,7 @@
             "WIDGET_PLAN_FOOTER": "Pagarás $%s USD cada mes",
             "ACCESS_KEY_CARD_TITLE": "Clave de Acceso",
             "GENERATE_NEW_ACCESS_KEY_BUTTON": "Generar nueva clave de acceso",
-            "SUPPORT_CARD_TITLE": "Necesitas Ayuda?",
+            "SUPPORT_CARD_TITLE": "¿Necesitas Ayuda?",
             "SUPPORT_TELEGRAM_SUPPORT_GROUP": "Grupo de Soporte en Telegram",
             "SUPPORT_TELEGRAM_SUPPORT_ACCOUNT": "Cuenta de Soporte en Telegram",
             "SUPPORT_CONTACT_INTELLIVOID": "Contacta a Intellivoid",
@@ -47,17 +47,17 @@
             "FEATURES_HEADER": "Todo simplificado.",
             "FEATURES_DESCRIPTION": "CoffeeHouse es una solución integral para el procesamiento de inteligencia artificial y Machine Learning basado en la nube, donde se agregan más funciones adicionales y se mejoran en CoffeeHouse con el paso del tiempo",
             "FEATURE_1_TITLE": "Soporte oficial y nuestra Comunidad",
-            "FEATURE_1_DESCRIPTION": "También tenemos una gran comunidad donde puedes visitar y hacer cualquier pregunta que tu corazón desee",
-            "FEATURE_2_TITLE": "Open Platform",
-            "FEATURE_2_DESCRIPTION": "Nuestros wrappers de API y documentación open-source están disponibles para todos, siéntase libre de contribuir!",
+            "FEATURE_1_DESCRIPTION": "También tenemos una gran comunidad la cual puedes visitar y despejar todas tus dudas existenciales",
+            "FEATURE_2_TITLE": "Plataforma abierta",
+            "FEATURE_2_DESCRIPTION": "Nuestros wrappers de API y documentación open-source están disponibles para todos, ¡siéntase libre de contribuir!",
             "FEATURE_3_TITLE": "Asequible & Gratuito",
-            "FEATURE_3_DESCRIPTION": "Proporcionamos el servicio de forma gratuita si desea utilizarlo para usos personales, ¿necesita más? ¡También es asequible con suscripciones mensuales!",
-            "FEATURE_4_TITLE": "Tecnologias independiente",
-            "FEATURE_4_DESCRIPTION": "CoffeeHouse no depende de servicios de terceros o liberias como TensorFlow para funcionar, ya que todo fue construido desde cero.",
+            "FEATURE_3_DESCRIPTION": "Proporcionamos el servicio de forma gratuita si desea utilizarlo para fines personales. ¿Necesita más? ¡También es asequible con suscripciones mensuales!",
+            "FEATURE_4_TITLE": "Tecnologías independientes",
+            "FEATURE_4_DESCRIPTION": "CoffeeHouse no depende de servicios de terceros o librerías como TensorFlow para funcionar; ya que todo fue construido desde cero.",
             "FEATURE_5_TITLE": "Siempre más",
             "FEATURE_5_DESCRIPTION": "Estamos trabajando de forma constante para contribuir y mejorar este servicio para todos",
-            "FEATURE_6_TITLE": "Escalofriantemente Simple",
-            "FEATURE_6_DESCRIPTION": "No hay necesidad de  configuraciones complicadas, empieza usando nuestros servicios con poco o ningun esfuerzo como un desarrollador de software",
+            "FEATURE_6_TITLE": "Escalofriantemente simple",
+            "FEATURE_6_DESCRIPTION": "No hay necesidad de configuraciones complicadas, empieza usando nuestros servicios con poco o ningún esfuerzo como un desarrollador de software",
             "PRICING_HEADER": "Precios Asequibles",
             "PRICING_DESCRIPTION": "Elige el plan correcto para tus necesidades",
             "PRICING_FEATURE_FREE_SUPPORT": "Soporte oficial gratuito",
@@ -78,8 +78,8 @@
             "CALLBACK_101": "Intellivoid Accounts ha devuelto una respuesta que no fue entendida por el servidor",
             "CALLBACK_102": "Se ha producido un error al procesar el intento de autenticación: %s",
             "CALLBACK_103": "No es posible acceder a Intellivoid Accounts en este momento",
-            "CALLBACK_104": "El metodo de autenticación usado no es soportado por este servidor",
-            "CALLBACK_105": "Has iniciado sesión satisfactoriamente!",
+            "CALLBACK_104": "El método de autenticación usado no es soportado por este servidor",
+            "CALLBACK_105": "¡Has iniciado sesión satisfactoriamente!",
             "CALLBACK_106": "El plan de subscripción no fue encontrado",
             "CALLBACK_107": "El plan de subscripción no está disponible"
         },
@@ -88,17 +88,17 @@
             "HEADER_DESCRIPTION": "Lydia es un chatbot avanzado que aprende activamente de las conversaciones y es capaz de hablar en diversos idiomas sin necesidad de una configuración extensiva.",
             "INPUT_PLACEHOLDER": "¿Qué hay en vuestra mente?",
             "GENERIC_USER_SELF": "Tú",
-            "AUTHENTICATION_REQUIRED_RESPONSE": "Me encantaria conversar contigo! Pero primero, necesito que te autentiques. Esta medida es para prevenir spam y abuso",
+            "AUTHENTICATION_REQUIRED_RESPONSE": "¡Me encantaría conversar contigo! Pero primero, necesito que te autentiques. Esta medida es para prevenir spam y abuso",
             "AUTHENTICATION_REQUIRED_ACTION": "Haz click aquí para autenticarte",
             "GENERIC_ERROR_RESPONSE": "Uh oh... Algo salió mal. Deberias intentar refrescar la página.",
-            "SESSION_ERROR_RESPONSE": "Whoops! Parece que ha ocurrido un problema con nuestra sesión de chat. Intenta refrescar la página!",
-            "SESSION_EXPIRED_RESPONSE": "Hey! Nuestra sesión de chat ha expirado. Aunque... Podemos hablar de nuevo :D. Intenta refrescando esta página!",
+            "SESSION_ERROR_RESPONSE": "Whoops! Parece que ha ocurrido un problema con nuestra sesión de chat. ¡Intenta refrescar la página!",
+            "SESSION_EXPIRED_RESPONSE": "¡Hey!, nuestra sesión de chat ha expirado. Aunque... Podemos hablar de nuevo :D. ¡Intenta refrescando esta página!",
             "RELOAD_ACTION": "Refrescar página",
-            "INTRODUCTION_MESSAGE": "Hola! Intenta tener una conversación conmigo!"
+            "INTRODUCTION_MESSAGE": "Hola, intenta tener una conversación conmigo!"
         },
         "privacy": {
-            "PAGE_TITLE": "CoffeeHouse - Politica de privacidad",
-            "PAGE_HEADER": "Politica de Privacidad"
+            "PAGE_TITLE": "CoffeeHouse - Política de privacidad",
+            "PAGE_HEADER": "Política de Privacidad"
         },
         "purchase": {
             "PAGE_TITLE": "CoffeeHouse - Confirmar Compra",
@@ -107,7 +107,7 @@
             "LYDIA_SESSIONS_CONFIGURATION": "Sesiones mensuales de Lydia",
             "DETAILS_PAYMENT": "Vas a pagar $%cp USD cada %bc dias",
             "PROMOTION_HEADER": "Código Promocional (Opcional)",
-            "PROMOTION_DESC": "Si tienes un código promocional para recibir una oferta especial, ingresadlo abajo para verificarlo",
+            "PROMOTION_DESC": "En caso de tener un código promocional para recibir una oferta especial, ingresarlo abajo para verificación",
             "PROMOTION_LABEL": "Código Promocional",
             "PROMOTION_PLACEHOLDER": "Ingresar Código Promocional",
             "PROMOTION_SUBMIT_BUTTON": "Verificar",
@@ -129,8 +129,8 @@
             "DESCRIPTION_3": "Nada personal, solo preguntale al programador."
         },
         "tos": {
-            "PAGE_TITLE": "CoffeeHouse - Terminos del Servicio",
-            "PAGE_HEADER": "Terminos del Servicio"
+            "PAGE_TITLE": "CoffeeHouse - Términos del Servicio",
+            "PAGE_HEADER": "Términos del Servicio"
         }
     },
     "sections": {
@@ -139,7 +139,7 @@
         },
         "landing_footer": {
             "FOOTER_TERMS_OF_SERVICE": "Terminos del Servicio",
-            "FOOTER_PRIVACY_POLICY": "Politica de Privacidad"
+            "FOOTER_PRIVACY_POLICY": "Política de Privacidad"
         },
         "landing_navbar": {
             "NAVBAR_HOME": "Inicio",
