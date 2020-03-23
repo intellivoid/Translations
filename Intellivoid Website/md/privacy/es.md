@@ -1,6 +1,6 @@
-#### Cuenta Intellivoid
+#### Intellivoid Accounts
 
-Intellivoid usa la politica de privacidad de Cuenta Intellivoid, la cual puede ser encontrada [aquí](https://accounts.intellivoid.info/privacy)
+Intellivoid usa la politica de privacidad de Intellivoid Accounts, la cual puede ser encontrada [aquí](https://accounts.intellivoid.info/privacy)
 
 --------------------------------------------------------------
 
