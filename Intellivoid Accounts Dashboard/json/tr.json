@@ -22,7 +22,7 @@
             "PAGE_TITLE": "Hesap Bakiyesi",
             "BALANCE_TITLE": "Hesap Bakiyesi",
             "BALANCE_ADD_LINK": "Bakiyeye ekle",
-            "ADD_MESSAGE_P1": " Intellivoid Hesabınıza para ekleyebilirsiniz, ancak bu fonlar Şartlar ve Hizmetlerimizde açıklandığı gibi geri alınamaz veya diğer Intellivoid Accountsna aktarılamaz.",
+            "ADD_MESSAGE_P1": " Intellivoid Hesabınıza para ekleyebilirsiniz, ancak bu fonlar Şartlar ve Hizmetlerimizde açıklandığı gibi geri alınamaz veya diğer Intellivoid Hesabınıza aktarılamaz.",
             "ADD_MESSAGE_P2": "Bu işlem Intellivoid tarafından manuel olarak işlenir ve işlenmesi 48 saate kadar sürebilir.",
             "ADD_MESSAGE_P3": "PayPal E-posta adresiniz Intellivoid Hesabınızın E-posta Adresi ile aynı olmalıdır, aksi takdirde işlem başarısız olur",
             "UPDATE_EMAIL_BUTTON": "E-posta Adresinizi güncelleyin",
