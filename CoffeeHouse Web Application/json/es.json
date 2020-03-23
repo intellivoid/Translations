@@ -24,7 +24,7 @@
             "WIDGET_LYDIA_SESSIONS_HEADER": "Sesiones de Lydia",
             "WIDGET_LYDIA_SESSIONS_FOOTER": "%s Sesiones Permitidas (Total)",
             "WIDGET_BILLING_CYCLE_HEADER": "Ciclo de facturación",
-            "WIDGET_BILLING_CYCLE_DESCRIPTION": "Tu próximo cobro será procesado el",
+            "WIDGET_BILLING_CYCLE_DESCRIPTION": "Tu próximo cobro será procesado el día: ",
             "BILLING_CYCLE_TODAY": "Hoy",
             "WIDGET_PLAN_DESCRIPTION": "Iniciado el %s",
             "WIDGET_PLAN_FOOTER": "Pagarás $%s USD cada mes",
