@@ -7,9 +7,9 @@
         "index": {
             "PAGE_TITLE": "Intellivoid",
             "HEADER_TITLE": "Somos la solución para las tareas complejas",
-            "HEADER_SUB": "A diferencia de otros, nos tomamos nuestro tiempo para crear lo mejor y solo lo mejor.",
+            "HEADER_SUB": "A diferencia de otros, dedicamos nuestro tiempo a crear lo mejor y solo lo mejor.",
             "SECTION_ACOUNTS_HEADER": "Intellivoid Accounts",
-            "SECTION_ACCOUNTS_SUB_HEADER": "La segunda generación para la autenticación ya está aquí",
+            "SECTION_ACCOUNTS_SUB_HEADER": "La segunda generación para la autenticación ya está aquí.",
             "SECTION_ACCOUNTS_OPEN_BUTTON": "Abrir Intellivoid Accounts",
             "SECTION_ACCOUNTS_PRIVACY_BUTTON": "Politica de Privacidad",
             "SECTION_ACCOUNTS_HINT": "Recupera el control de tu privacidad hoy",
@@ -32,38 +32,38 @@
             "SECTION_COFFEEHOUSE_CHATS": "Chats",
             "SECTION_COFFEEHOUSE_PROJECTS": "Proyectos",
             "SECTION_NETLENIUM_HEADER": "Netlenium Framework",
-            "SECTION_NETLENIUM_DESC_1": "Framework de automatización web multiplataforma basado en la nube, diseñado para crear pruebas, automatizar tareas complejas o monitorear datos sin usar JavaScript u otros componentes web",
-            "SECTION_NETLENIUM_DESC_2": "Este es un proyecto en progreso, se dará a conocer más información en el futuro",
+            "SECTION_NETLENIUM_DESC_1": "Framework de automatización web multiplataforma basado en la nube, diseñado para crear pruebas, automatizar tareas complejas o monitorear datos sin usar JavaScript u otros componentes web.",
+            "SECTION_NETLENIUM_DESC_2": "Este es un proyecto en progreso, se dará a conocer más información en el futuro.",
             "SECTION_NETLENIUM_BUTTON": "Muy Pronto"
         },
         "contact": {
-            "PAGE_TITLE": "Intellivoid - Contactanos",
-            "HEADER_TITLE": "Contactanos",
-            "LABEL_EMAIL_ADDRESS": "Dirección de correo",
+            "PAGE_TITLE": "Intellivoid - Contáctanos",
+            "HEADER_TITLE": "Contáctanos",
+            "LABEL_EMAIL_ADDRESS": "Dirección de correo electrónico",
             "LABEL_SUBJECT": "Asunto",
             "SUBJECT_PLACEHOLDER": "Asunto",
             "LABEL_MESSAGE": "Mensaje",
             "MESSAGE_PLACEHOLDER": "Escribe tu mensaje aquí...",
             "SUBMIT_BUTTON": "Enviar",
-            "FEATURE_1_TITLE": "Vamos a ponernos en contacto contigo!",
-            "FEATURE_1_DESC": "Contactarnos es un proceso rapido y sin complicaciones, sin pasos o información innecesaria.",
-            "FEATURE_2_TITLE": "Tienes una pregunta?",
-            "FEATURE_2_DESC": "Nos encantaria resolver tus preguntas! Se acabaron las respuestas genericas o confusas. No usamos ninguna IA detrás de nuestro equipo de soporte",
-            "CALLBACK_100": "Hubo un problema con tu solicitud, asegurate de que tu navegador está actualizado",
-            "CALLBACK_101": "La dirección de email proporcionada es invalida",
-            "CALLBACK_102": "El asunto proporcionado es invalido, debe contener más de de 5 caracteres pero menos de 130",
-            "CALLBACK_103": "El mensaje proporcionado es invalido, debe contener más de 20 caracteres, pero no más de 2500",
-            "CALLBACK_104": "Hubo un error desconocido al procesar tu solicitud, por favor espera mientras Intellivoid resuelve este problema",
+            "FEATURE_1_TITLE": "¡Nos pondremos en contacto contigo!",
+            "FEATURE_1_DESC": "Contactarnos es un proceso rápido y sin complicaciones, pasos ni información innecesaria.",
+            "FEATURE_2_TITLE": "¿Tienes alguna duda?",
+            "FEATURE_2_DESC": "¡Nos encantaría responder tus preguntas! Se acabaron las respuestas genericas o confusas. No usamos ninguna IA detrás de nuestro equipo de soporte.",
+            "CALLBACK_100": "Hubo un problema con tu solicitud, asegúrate de que tu navegador esté actualizado.",
+            "CALLBACK_101": "La dirección de e-mail proporcionada es inválida",
+            "CALLBACK_102": "El asunto proporcionado es inválido, debe contener más de de 5 caracteres pero menos de 130",
+            "CALLBACK_103": "El mensaje proporcionado es inválido, debe contener más de 20 caracteres, pero no más de 2500",
+            "CALLBACK_104": "Hubo un error desconocido al procesar tu solicitud, por favor, espera mientras Intellivoid resuelve este problema.",
             "CALLBACK_105": "Tu reporte ha sido enviado, nos contactaremos dentro de poco. Tú número de ticket es #%s",
-            "CALLBACK_106": "El captcha ha sido resuelto incorrectamente"
+            "CALLBACK_106": "El captcha ha sido resuelto incorrectamente."
         },
         "privacy": {
-            "PAGE_TITLE": "Intellivoid - Politica de Privacidad",
-            "HEADER_TITLE": "Politica de Privacidad"
+            "PAGE_TITLE": "Intellivoid - Política de Privacidad",
+            "HEADER_TITLE": "Política de Privacidad"
         },
         "tos": {
             "PAGE_TITLE": "Intellivoid - Terminos del servicio",
-            "HEADER_TITLE": "Terminos del servicio"
+            "HEADER_TITLE": "Términos del servicio"
         }
     },
     "sections": {
@@ -73,18 +73,18 @@
             "NAVBAR_COMING_SOON_PLACEHOLDER": "(Muy Pronto)",
             "NAVBAR_SERVICES_DROPDOWN": "Servicios",
             "NAVBAR_SUPPORT_DROPDOWN": "Soporte",
-            "NAVBAR_SUPPORT_CONTACT_US": "Contactanos",
-            "NAVBAR_SUPPORT_PRIVACY_POLICY": "Politica de Privacidad",
-            "NAVBAR_SUPPORT_TERMS_OF_SERVICE": "Terminos del Servicio",
+            "NAVBAR_SUPPORT_CONTACT_US": "Contáctanos",
+            "NAVBAR_SUPPORT_PRIVACY_POLICY": "Política de Privacidad",
+            "NAVBAR_SUPPORT_TERMS_OF_SERVICE": "Términos del Servicio",
             "NAVBAR_SOCIAL_TWITTER_TOOLTIP": "Síguenos en Twitter",
-            "NAVBAR_SOCIAL_TELEGRAM_TOOLTIP": "Habla con nosotros en Telegram",
+            "NAVBAR_SOCIAL_TELEGRAM_TOOLTIP": "Comunícate con nosotros vía Telegram",
             "NAVBAR_SOCIAL_INSTAGRAM_TOOLTIP": "Síguenos en Instagram",
             "NAVBAR_SOCIAL_GITHUB_TOOLTIP": "Encuéntranos en Github"
         },
         "landing_footer": {
-            "FOOTER_CONTACT_US": "Contactanos",
-            "FOOTER_PRIVACY_POLICY": "Politica de Privacidad",
-            "FOOTER_TERMS_OF_SERVICE": "Terminos del Servicio",
+            "FOOTER_CONTACT_US": "Contáctanos",
+            "FOOTER_PRIVACY_POLICY": "Política de Privacidad",
+            "FOOTER_TERMS_OF_SERVICE": "Términos del Servicio",
             "FOOTER_COMING_SOON_PLACEHOLDER": "(Muy pronto)",
             "FOOTER_FOLLOW_US_TITLE": "Síguenos"
         }
