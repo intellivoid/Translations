@@ -1,0 +1,92 @@
+{
+    "language": {
+        "name": "russian",
+        "iso_639-1": "ru"
+    },
+    "pages": {
+        "index": {
+            "PAGE_TITLE": "Intellivoid",
+            "HEADER_TITLE": "Мы — это решение сложных задач",
+            "HEADER_SUB": "В отличие от других, мы не торопимся создавать лучшее и только лучшее.",
+            "SECTION_ACOUNTS_HEADER": "Intellivoid Accounts",
+            "SECTION_ACCOUNTS_SUB_HEADER": "Второе поколение аутентификации уже доступно",
+            "SECTION_ACCOUNTS_OPEN_BUTTON": "Открыть Intellivoid Accounts",
+            "SECTION_ACCOUNTS_PRIVACY_BUTTON": "Политика конфиденциальности",
+            "SECTION_ACCOUNTS_HINT": "Верните себе право на конфиденциальность сегодня",
+            "SECTION_OPENBLU_SERVERS": "Серверов",
+            "SECTION_OPENBLU_CONNECTED_USERS": "Подключенных пользователей",
+            "SECTION_OPENBLU_FREE": "Бесплатный",
+            "SECTION_OPENBLU_ACCESS": "Доступ",
+            "SECTION_OPENBLU_HEADER": "OpenBlu VPN",
+            "SECTION_OPENBLU_DESC": "Надежный и бесплатный VPN-сервис на базе добровольцев с хорошо документированным API",
+            "SECTION_OPENBLU_FEATURE_1": "Стандартное шифрование на всех VPN-серверах",
+            "SECTION_OPENBLU_FEATURE_2": "Хорошо документированные файлы конфигурации",
+            "SECTION_OPENBLU_FEATURE_3": "Попробуйте API перед покупкой",
+            "SECTION_OPENBLU_OPEN_APPLICATION_BUTTON": "Открыть веб-приложение",
+            "SECTION_COFFEEHOUSE_HEADER": "CoffeeHouse",
+            "SECTION_COFFEEHOUSE_DESC": "Многоцелевой облачный сервис искусственного интеллекта и машинного обучения для каждого",
+            "SECTION_COFFEEHOUSE_FEATURE_1": "Продвинутый чат-бот на машинном обучении",
+            "SECTION_COFFEEHOUSE_FEATURE_2": "Библиотеки с открытым исходным кодом, используемые многими проектами",
+            "SECTION_COFFEEHOUSE_FEATURE_3": "Бесплатно для личного пользования",
+            "SECTION_COFFEEHOUSE_OPEN_COFFEEHOUSE_BUTTON": "Открыть CoffeeHouse",
+            "SECTION_COFFEEHOUSE_CHATS": "Чатов",
+            "SECTION_COFFEEHOUSE_PROJECTS": "Проектов",
+            "SECTION_NETLENIUM_HEADER": "Netlenium Framework",
+            "SECTION_NETLENIUM_DESC_1": "Кросс-платформенная и облачная платформа автоматизации браузеров, предназначенная для создания тестов, автоматизации сложных задач или мониторинга данных без использования JavaScript или веб-компонентов",
+            "SECTION_NETLENIUM_DESC_2": "Этот проект еще в разработке, более подробная информация будет опубликована в будущем",
+            "SECTION_NETLENIUM_BUTTON": "Скоро"
+        },
+        "contact": {
+            "PAGE_TITLE": "Intellivoid - Связаться с нами",
+            "HEADER_TITLE": "Связаться с нами",
+            "LABEL_EMAIL_ADDRESS": "Адрес электронной почты",
+            "LABEL_SUBJECT": "Тема",
+            "SUBJECT_PLACEHOLDER": "Тема",
+            "LABEL_MESSAGE": "Сообщение",
+            "MESSAGE_PLACEHOLDER": "Напишите ваше сообщение здесь...",
+            "SUBMIT_BUTTON": "Отправить",
+            "FEATURE_1_TITLE": "Мы свяжемся с вами!",
+            "FEATURE_1_DESC": "Связаться с нами можно быстро и безболезненно, без лишних шагов или раскрытии информации.",
+            "FEATURE_2_TITLE": "Есть вопрос?",
+            "FEATURE_2_DESC": "Мы ответим на них! Мы не даем общие или запутанные ответы. Мы не используем AI для нашей службы поддержки.",
+            "CALLBACK_100": "При отправке возникла проблема. Пожалуйста, убедитесь, что ваш браузер находится в актуальном состоянии",
+            "CALLBACK_101": "Указанный адрес электронной почты недействителен",
+            "CALLBACK_102": "Размер темы должен быть от 5 до 130 символов",
+            "CALLBACK_103": "Размер сообщения должен быть от 20 до 2500 символов",
+            "CALLBACK_104": "При попытке отправить сообщение произошла неизвестная ошибка. Подождите, пока Intellivoid не решит эту проблему.",
+            "CALLBACK_105": "Ваше сообщение отправлено, мы свяжемся с вами в ближайшее время. Ваш номер заявки #%s",
+            "CALLBACK_106": "Капча была решена неправильно"
+        },
+        "privacy": {
+            "PAGE_TITLE": "Intellivoid - Политика конфиденциальности",
+            "HEADER_TITLE": "Политика конфиденциальности"
+        },
+        "tos": {
+            "PAGE_TITLE": "Intellivoid - Условия обслуживания",
+            "HEADER_TITLE": "Условия обслуживания"
+        }
+    },
+    "sections": {
+        "landing_navbar": {
+            "NAVBAR_BRAND_TOOLTIP": "Программное обеспечение и услуги для потребителей и бизнеса",
+            "NAVBAR_TOGGLE_LABEL": "Переключить навигацию",
+            "NAVBAR_COMING_SOON_PLACEHOLDER": "(Скоро)",
+            "NAVBAR_SERVICES_DROPDOWN": "Сервисы",
+            "NAVBAR_SUPPORT_DROPDOWN": "Служба поддержки",
+            "NAVBAR_SUPPORT_CONTACT_US": "Связаться с нами",
+            "NAVBAR_SUPPORT_PRIVACY_POLICY": "Политика конфиденциальности",
+            "NAVBAR_SUPPORT_TERMS_OF_SERVICE": "Условия обслуживания",
+            "NAVBAR_SOCIAL_TWITTER_TOOLTIP": "Читайте нас на Twitter",
+            "NAVBAR_SOCIAL_TELEGRAM_TOOLTIP": "Общайтесь с нами в Telegram",
+            "NAVBAR_SOCIAL_INSTAGRAM_TOOLTIP": "Подпишитесь на наш Instagram",
+            "NAVBAR_SOCIAL_GITHUB_TOOLTIP": "Найдите нас на GitHub"
+        },
+        "landing_footer": {
+            "FOOTER_CONTACT_US": "Связаться с нами",
+            "FOOTER_PRIVACY_POLICY": "Политика конфиденциальности",
+            "FOOTER_TERMS_OF_SERVICE": "Условия обслуживания",
+            "FOOTER_COMING_SOON_PLACEHOLDER": "(Скоро)",
+            "FOOTER_FOLLOW_US_TITLE": "Подписывайтесь на нас"
+        }
+    }
+}
