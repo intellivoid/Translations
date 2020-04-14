@@ -8,13 +8,14 @@ pages and imported sections.
 
 ## Translations
 
-| Language             | Last Updated   | Needs to be updated  | Translator                                     |
-|----------------------|----------------|----------------------|------------------------------------------------|
-| English              | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)           |
-| Chinese (Simplified) | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)           |
-| Spanish              | Feb 5, 2020    | No                   | [Ryosuke Ikeda](https://github.com/takarushi)  |
-| German               | Feb 1, 2020    | Yes                  | [Dav2070](https://github.com/Dav2070)          |
-| Turkish              | Feb 17, 2020   | No                   | [M.Furkan](https://github.com/muhammedfurkan)  |
+| Language             | Last Updated   | Needs to be updated  | Translator                                            |
+|----------------------|----------------|----------------------|-------------------------------------------------------|
+| English              | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)                  |
+| Chinese (Simplified) | Feb 5, 2020    | No                   | [Zi Xing](https://github.com/netkas)                  |
+| Spanish              | Feb 5, 2020    | No                   | [Ryosuke Ikeda](https://github.com/takarushi)         |
+| German               | Feb 1, 2020    | Yes                  | [Dav2070](https://github.com/Dav2070)                 |
+| Turkish              | Feb 17, 2020   | No                   | [M.Furkan](https://github.com/muhammedfurkan)         |
+| Russian              | Apr 14, 2020   | No                   | [mashed-potatoes](https://github.com/mashed-potatoes) |
 
 
 ## Example Document
