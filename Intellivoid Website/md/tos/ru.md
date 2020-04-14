@@ -1,4 +1,4 @@
-#### Аккаунты Intellivoid
+#### Intellivoid Accounts
 
 Intellivoid использует условия обслуживания Intellivoid Accounts которые можно найти [здесь](https://accounts.intellivoid.info/privacy)
 

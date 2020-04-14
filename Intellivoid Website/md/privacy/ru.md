@@ -1,4 +1,4 @@
-#### Аккаунты Intellivoid
+#### Intellivoid Accounts
 
 Intellivoid использует политику конфиденциальности Intellivoid Accounts которую можно найти [здесь](https://accounts.intellivoid.info/privacy)
 
