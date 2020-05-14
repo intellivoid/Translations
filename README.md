@@ -14,9 +14,9 @@ translating, what to do and what not to do.
 
 ## Want to contribute?
 
-Want to offer a new additional language?
-Join us on [Telegram](https://t.me/Intellivoid), let's talk about it!
+Please use our [Crowdin](https://crowdin.intellivoid.net) for future translations.
+**This repository has been deprecated in favour of our Crowdin, so you shouldn't open any new issues, make new forks or pull requests, they'll be closed and ignored as we are not using this repo anymore**
 
 ## See a mistake?
 
-Open an issue pointing out the translation error
+Edit the mistake in the [Crowdin](https://crowdin.intellivoid.net) and we'll review it
