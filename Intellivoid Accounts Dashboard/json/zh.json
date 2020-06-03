@@ -475,6 +475,11 @@
             "CALLBACK_113": "没有与您的Intellivoid帐户关联的电报帐户",
             "CALLBACK_114": "您的电报帐户已成功取消关联"
         },
+        "settings_otl_generator": {
+            "PAGE_TITLE": "OTL发生器",
+            "PAGE_HEADER": "一次性密码生成器",
+            "DESCRIPTION": "下面的代码是与您的帐户关联的一次性生成的登录代码，用于内部服务。员工绝不会要求此代码，您不应将此代码提供给任何人。该代码将在5分钟后过期。"
+        },
         "sudo": {
             "PAGE_TITLE": "须藤模式",
             "AUTHENTICATION_SUB_HEADER": "为防止未经授权的更改，请输入密码",
