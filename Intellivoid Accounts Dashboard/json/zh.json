@@ -266,7 +266,7 @@
             "APPLICATION_SUSPENDED_BUTTON": "已暂停",
             "APPLICATION_KEYS_HEADER": "应用键",
             "APPLICATION_KEYS_PUBLIC_APPLICATION_ID_LABEL": "公开申请编号",
-            "APPLICATION_KEYS_PUBLIC_APPLICATION_ID_TOOLTIP": "这用于获取公共应用程序徽标和信息",
+            "APPLICATION_KEYS_PUBLIC_APPLICATION_ID_TOOLTIP": "这用于获取应用程序徽标和公共应用程序信息",
             "APPLICATION_KEYS_SECRET_KEY_LABEL": "密钥",
             "APPLICATION_KEYS_SECRET_KEY_TOOLTIP": "这是用于创建身份验证请求",
             "SETTINGS_HEADER": "设定值",
