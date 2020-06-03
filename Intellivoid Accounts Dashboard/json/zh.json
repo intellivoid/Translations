@@ -217,11 +217,6 @@
             "CALLBACK_115": "您输入的密码之前已被其他服务盗用，请使用其他密码。",
             "CALLBACK_116": "您输入的密码无效"
         },
-        "internal_authentication": {
-            "PAGE_TITLE": "内部认证",
-            "PAGE_HEADER": "内部认证",
-            "PAGE_DESCRIPTION": "下面的代码是与您的帐户关联的一次性生成的登录代码，用于内部服务。员工绝不会要求此代码，您不应将此代码提供给任何人。该代码将在5分钟后过期。"
-        },
         "landing_page": {
             "PAGE_TITLE": "Intellivoid Accounts",
             "HOME_BANNER_HEADER": "Intellivoid Accounts",
