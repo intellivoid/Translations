@@ -610,8 +610,8 @@
             "CALLBACK_106": "身份验证提示已过期"
         },
         "verify_mobile": {
-            "PAGE_TITLE": "验证身份验证",
-            "HEADER": "验证",
+            "PAGE_TITLE": "移动验证",
+            "HEADER": "移动验证",
             "SUB_HEADER": "输入您的身份验证应用程序通过手机生成的代码",
             "VERIFICATION_CODE_LABEL": "验证码",
             "VERIFICATION_CODE_PLACEHOLDER": "验证码",
