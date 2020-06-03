@@ -497,6 +497,20 @@
             "CALLBACK_104": "您输入的密码之前已被其他服务盗用，请使用其他密码。",
             "CALLBACK_105": "您输入的密码无效"
         },
+        "settings_setup_mobile_verification": {
+            "PAGE_TITLE": "设置手机验证",
+            "PAGE_HEADER": "设置手机验证",
+            "PART_1_TITLE": "下载",
+            "PART_1_BODY": "下载Google身份验证器或使用您选择的身份验证器，然后继续进行下一步",
+            "PART_1_PLAYSTORE": "应用商店",
+            "PART_1_APPSTORE": "应用商店",
+            "PART_2_TITLE": "扫瞄",
+            "PAGE_2_BUTTON": "新增帐户",
+            "PART_2_HINT": "无法扫描或添加它？",
+            "PART_3_TITLE": "校验",
+            "PART_3_INPUT_LABEL": "输入您生成的代码以进行验证",
+            "CALLBACK_100": "指定的验证码不正确/已过期"
+        },
         "sudo": {
             "PAGE_TITLE": "须藤模式",
             "AUTHENTICATION_SUB_HEADER": "为防止未经授权的更改，请输入密码",
