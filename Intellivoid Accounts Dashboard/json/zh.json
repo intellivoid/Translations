@@ -654,6 +654,20 @@
             "USER_ROLE_PERSONAL": "个人",
             "USER_ROLE_ADMIN": "管理员"
         },
+        "main_horizontal_menu": {
+            "NAV_MENU_BRAND_TEXT": "Intellivoid",
+            "NAV_MENU_LINK_OVERVIEW": "总览",
+            "NAV_MENU_LINK_ACCOUNT_SETTINGS": "帐号设定",
+            "NAV_MENU_LINK_FINANCE": "金融",
+            "NAV_MENU_DROPDOWN_FINANCE_ACCOUNT_BALANCE": "账户余额",
+            "NAV_MENU_DROPDOWN_FINANCE_TRANSACTION_HISTORY": "交易记录",
+            "NAV_MENU_DROPDOWN_FINANCE_SUBSCRIPTIONS": "订阅内容",
+            "NAV_MENU_LINK_AUTHENTICATOR": "认证者",
+            "NAV_MENU_LINK_SUPPORT": "支持",
+            "NAV_MENU_DROPDOWN_SUPPORT_PRIVACY": "隐私政策",
+            "NAV_MENU_DROPDOWN_SUPPORT_TERMS_OF_SERVICE": "服务条款",
+            "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "发送反馈"
+        },
         "feedback_modal": {
             "FEEDBACK_DIALOG_TITLE": "发送反馈",
             "FEEDBACK_DIALOG_MESSAGE_LABEL": "信息",
