@@ -356,7 +356,8 @@
         "purchase_success": {
             "PAGE_TITLE": "购买成功",
             "CARD_HEADER": "购买成功",
-            "CARD_DESCRIPTION": "您的购买已成功处理，您现在可以关闭此窗口。"
+            "CARD_DESCRIPTION": "您的购买已成功处理，您现在可以关闭此窗口。",
+            "CARD_DESCRIPTION_REDIRECT": "您的购买已成功处理，您将很快被重定向"
         },
         "recover_password": {
             "PAGE_TITLE": "找回密码",
