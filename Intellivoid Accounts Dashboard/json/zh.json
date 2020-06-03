@@ -620,8 +620,8 @@
             "CALLBACK_101": "验证码不正确"
         },
         "verify_recovery_code": {
-            "PAGE_TITLE": "验证身份验证",
-            "HEADER": "验证",
+            "PAGE_TITLE": "验证恢复码",
+            "HEADER": "验证恢复码",
             "SUB_HEADER": "输入一次性使用恢复码",
             "RECOVERY_CODE_LABEL": "恢复码",
             "RECOVERY_CODE_PLACEHOLDER": "恢复码",
