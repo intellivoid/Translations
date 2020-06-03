@@ -393,10 +393,9 @@
             "CALLBACK_107": "您必须同意我们的服务条款才能创建Intellivoid帐户",
             "CALLBACK_108": "您输入的密码已被其他服务泄露，因此无法使用。"
         },
-        "services": {
+        "settings_authorized_apps": {
             "PAGE_TITLE": "授权申请",
-            "CARD_HEADER": "授权申请",
-            "CARD_SUB_HEADER": "您已验证使用此Intellivoid帐户的服务和应用程序",
+            "PAGE_HEADER": "授权申请",
             "ITEM_LAST_AUTHENTICATED": "上次认证时间：%s",
             "PERMISSIONS_HEADER": "%s有权访问",
             "PERMISSIONS_USERNAME_AVATAR_TEXT": "您的用户名和头像",
