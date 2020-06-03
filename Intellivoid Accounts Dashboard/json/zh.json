@@ -114,6 +114,49 @@
             "CALLBACK_103": "您的帐户目前受限制，请与支持小组联系",
             "CALLBACK_104": "您的Intellivoid帐户中资金不足，请添加更多资金。"
         },
+        "finance_balance": {
+            "PAGE_TITLE": "账户余额",
+            "BALANCE_ADD_LINK": "加上余额",
+            "ADD_MESSAGE_P1": "您可以向您的Intellivoid帐户中添加资金，但不能按照我们的条款和服务中的说明提取或转入其他Intellivoid帐户中。",
+            "ADD_MESSAGE_P2": "此过程由Intellivoid手动处理，最多可能需要48个小时来处理。",
+            "ADD_MESSAGE_P3": "您的PayPal电子邮件地址必须与Intellivoid帐户的电子邮件地址相同，否则交易将失败",
+            "UPDATE_EMAIL_BUTTON": "更新您的电子邮件地址",
+            "RECENT_ACTIVITY_CARD_TITLE": "近期活动",
+            "VIEW_TRANSACTION_HISTORY": "查看交易记录",
+            "NO_TRANSACTIONS": "没有相关产品",
+            "ADD_BALANCE_DIALOG_TITLE": "添加到您的余额",
+            "ADD_BALANCE_DIALOG_SELECT_LABEL": "选择金额",
+            "ADD_BALANCE_DIALOG_CANCEL_BUTTON": "取消",
+            "ADD_BALANCE_DIALOG_CONTINUE_BUTTON": "继续"
+        },
+        "finance_invoice": {
+            "PAGE_TITLE": "发票＃IV-%s",
+            "INVOICE_HEADER": "发票＃IV-%s",
+            "INVOICE_VENDOR_ID": "供应商编号",
+            "INVOICE_DATE": "发票日期",
+            "INVOICE_TRANSACTION": "交易",
+            "INVOICE_DESCRIPTION": "描述",
+            "INVOICE_QUANTITY": "数量",
+            "INVOICE_UNIT_COST": "单位成本",
+            "INVOICE_TOTAL": "总",
+            "INVOICE_FOOTER": "该发票由Intellivoid帐户生成"
+        },
+        "finance_subscriptions": {
+            "PAGE_TITLE": "管理订阅",
+            "PAGE_HEADER": "订阅内容",
+            "SUBSCRIPTION_BILLING": "您将在%nbc上向您收取$%cp USD的费用",
+            "SUBSCRIPTION_START": "开始于：%s",
+            "CANCEL_SUBSCRIPTION_BUTTON": "取消订阅",
+            "NO_ITEMS": "没有相关产品",
+            "CALLBACK_100": "找不到或不存在请求的资源",
+            "CALLBACK_101": "尝试处理您的请求时出错",
+            "CALLBACK_102": "您的订阅已成功取消"
+        },
+        "finance_transactions": {
+            "PAGE_TITLE": "交易记录",
+            "PAGE_HEADER": "交易记录",
+            "NO_TRANSACTIONS": "没有交易"
+        },
         "gba_mode": {
             "PAGE_TITLE": "安全警告",
             "HEADER_TITLE": "政府支持的攻击防护",
