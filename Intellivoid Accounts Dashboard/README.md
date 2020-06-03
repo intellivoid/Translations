@@ -10,10 +10,10 @@ pages and imported sections.
 
 | Language             | Last Updated   | Needs to be updated | Translator                                                                              |
 |----------------------|----------------|---------------------|-----------------------------------------------------------------------------------------|
-| English              | Feb 15, 2020   | No                  | [Zi Xing](https://github.com/netkas)                                                    |
-| Chinese              | Feb 20, 2020   | No                  | [Zi Xing](https://github.com/netkas)                                                    |
-| Spanish              | Feb 20, 2020   | No                  | [Ryosuke Ikeda](https://github.com/takarushi), [loque036](https://github.com/loque036)  |
-| Turkish              | Mar 23, 2020   | No                  | [M.Furkan](https://github.com/muhammedfurkan)                                           |
+| English              | June 3, 2020   | No                  | [Zi Xing](https://github.com/netkas)                                                    |
+| Chinese              | Feb 20, 2020   | Yes                 | [Zi Xing](https://github.com/netkas)                                                    |
+| Spanish              | Feb 20, 2020   | Yes                 | [Ryosuke Ikeda](https://github.com/takarushi), [loque036](https://github.com/loque036)  |
+| Turkish              | Mar 23, 2020   | Yes                 | [M.Furkan](https://github.com/muhammedfurkan)                                           |
 
 ## Example Document
 ```json
