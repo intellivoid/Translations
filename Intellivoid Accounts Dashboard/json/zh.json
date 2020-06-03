@@ -361,8 +361,8 @@
         },
         "recover_password": {
             "PAGE_TITLE": "找回密码",
-            "PASSWORD_RECOVERY_CARD_TITLE": "新密码",
-            "PASSWORD_RECOVERY_CARD_SUB_HEADER": "输入您不会忘记的新密码",
+            "HEADER": "新密码",
+            "SUB_HEADER": "要登录，您需要设置一个新密码。",
             "NEW_PASSWORD_LABEL": "新密码",
             "NEW_PASSWORD_PLACEHOLDER": "输入新密码",
             "CHANGE_PASSWORD_BUTTON": "更改密码",
@@ -370,7 +370,8 @@
             "FOOTER_NOT_USER_LOGOUT_LINK": "登出",
             "CALLBACK_100": "您的请求存在问题，请确保您使用的是最新的浏览器",
             "CALLBACK_101": "输入的密码无效，必须大于8个字符，但不能大于128个字符",
-            "CALLBACK_102": "尝试处理您的请求时出错，请稍后再试。"
+            "CALLBACK_102": "尝试处理您的请求时出错，请稍后再试。",
+            "CALLBACK_103": "您输入的密码之前曾被其他服务盗用，请使用其他密码"
         },
         "register": {
             "PAGE_TITLE": "Intellivoid帐户-注册",
