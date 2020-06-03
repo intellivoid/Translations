@@ -411,23 +411,6 @@
             "CALLBACK_102": "已成功撤消对该服务/应用程序的访问",
             "CALLBACK_103": "无法撤消对此服务/应用程序的访问，因为它已被撤消"
         },
-        "setup_mobile_verification": {
-            "PAGE_TITLE": "设置手机验证",
-            "CARD_HEADER": "移动验证设置",
-            "PART_1_TITLE": "下载",
-            "PART_1_HEADER": "下载Google Authenticator",
-            "PART_1_BODY": "即使您没有互联网连接，也可以使用Google Authenticator应用接收代码。",
-            "PART_1_PLAYSTORE": "Google Play",
-            "PART_1_APPSTORE": "Apple AppStore",
-            "PART_1_DOWNLOAD_BUTTON": "下载",
-            "PART_2_TITLE": "扫瞄",
-            "PART_2_HEADER": "扫描二维码",
-            "PART_2_HINT": "无法扫描？",
-            "PART_3_TITLE": "校验",
-            "PART_3_HEADER": "输入您生成的代码以进行验证",
-            "PART_3_INPUT_LABEL": "验证码",
-            "CALLBACK_100": "指定的验证码不正确/已过期"
-        },
         "setup_recovery_codes": {
             "PAGE_TITLE": "设置恢复代码",
             "CARD_TITLE": "恢复码验证",
