@@ -511,6 +511,15 @@
             "PART_3_INPUT_LABEL": "输入您生成的代码以进行验证",
             "CALLBACK_100": "指定的验证码不正确/已过期"
         },
+        "settings_setup_recovery_codes": {
+            "PAGE_TITLE": "设置恢复代码",
+            "PAGE_HEADER": "设置恢复代码",
+            "CARD_DESCRIPTION": "这些是用于访问帐户的一次性使用恢复码，如果您无法访问手机或无法使用其他方法进行验证，则这很重要。这些代码应记录下来，并且区分大小写。",
+            "CONFIRM_BUTTON": "确认",
+            "CONFIRMATION_DIALOG_TITLE": "确认书",
+            "CONFIRMATION_DIALOG_SUBMIT_BUTTON": "完成了",
+            "CALLBACK_100": "您的帐户已启用移动验证，强烈建议您在丢失设备的情况下设置恢复代码"
+        },
         "sudo": {
             "PAGE_TITLE": "须藤模式",
             "AUTHENTICATION_SUB_HEADER": "为防止未经授权的更改，请输入密码",
