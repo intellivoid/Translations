@@ -568,9 +568,10 @@
         },
         "sudo": {
             "PAGE_TITLE": "须藤模式",
-            "AUTHENTICATION_SUB_HEADER": "为防止未经授权的更改，请输入密码",
+            "HEADER": "须藤模式",
+            "SUB_HEADER": "为防止未经授权的更改，请输入密码",
             "PASSWORD_LABEL": "密码",
-            "SUBMIT_BUTTON": "进入sudo模式",
+            "SUBMIT_BUTTON": "认证",
             "CALLBACK_100": "尝试进入sudo模式时出错，请与支持人员联系。",
             "CALLBACK_101": "密码错误"
         },
