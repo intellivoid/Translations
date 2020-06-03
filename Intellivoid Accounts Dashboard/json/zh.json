@@ -646,6 +646,14 @@
             "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "取消",
             "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "上载"
         },
+        "main_nav": {
+            "USER_DROPDOWN_MANAGE_APPLICATIONS": "管理应用程式",
+            "USER_DROPDOWN_CHANGE_PASSWORD": "更改密码",
+            "USER_DROPDOWN_CHANGE_AVATAR": "更改头像",
+            "USER_DROPDOWN_LOGOUT": "登出",
+            "USER_ROLE_PERSONAL": "个人",
+            "USER_ROLE_ADMIN": "管理员"
+        },
         "feedback_modal": {
             "FEEDBACK_DIALOG_TITLE": "发送反馈",
             "FEEDBACK_DIALOG_MESSAGE_LABEL": "信息",
