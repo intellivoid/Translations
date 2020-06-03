@@ -633,17 +633,6 @@
             "PAGE_TITLE": "验证身份验证",
             "HEADER": "电报提示",
             "SUB_HEADER": "检查您的电报帐户是否有身份验证提示"
-        },
-        "view_invoice": {
-            "PAGE_TITLE": "发票＃IV-%s",
-            "INVOICE_HEADER": "发票＃IV-%s",
-            "INVOICE_VENDOR_ID": "供应商ID：",
-            "INVOICE_TO": "开发票",
-            "INVOICE_DATE": "发票日期：%s",
-            "INVOICE_DESCRIPTION": "描述",
-            "INVOICE_QUANTITY": "数量",
-            "INVOICE_UNIT_COST": "单位成本",
-            "INVOICE_TOTAL": "总"
         }
     },
     "sections": {
