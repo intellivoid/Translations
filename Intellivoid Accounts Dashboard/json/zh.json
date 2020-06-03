@@ -642,28 +642,6 @@
             "CHANGE_AVATAR_DIALOG_CANCEL_BUTTON": "取消",
             "CHANGE_AVATAR_DIALOG_UPLOAD_BUTTON": "上载"
         },
-        "dashboard_navbar": {
-            "USER_DROPDOWN_MANAGE_APPLICATIONS": "管理应用程式",
-            "USER_DROPDOWN_CHANGE_PASSWORD": "更改密码",
-            "USER_DROPDOWN_CHANGE_AVATAR": "更改头像",
-            "USER_DROPDOWN_LOGOUT": "登出",
-            "NAV_MENU_LINK_OVERVIEW": "总览",
-            "NAV_MENU_LINK_PERSONAL": "个人",
-            "NAV_MENU_LINK_SECURITY": "安全",
-            "NAV_MENU_DROPDOWN_SECURITY_AUTHORIZED_APPS": "授权应用",
-            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_HISTORY": "登录历史",
-            "NAV_MENU_DROPDOWN_SECURITY_LOGIN_SECURITY": "登录",
-            "NAV_MENU_DROPDOWN_SECURITY_INTERNAL_AUTH": "内部验证",
-            "NAV_MENU_DROPDOWN_SECURITY_UPDATE_PASSWORD": "更新密码",
-            "NAV_MENU_LINK_FINANCE": "金融",
-            "NAV_MENU_DROPDOWN_FINANCE_ACCOUNT_BALANCE": "账户余额",
-            "NAV_MENU_DROPDOWN_FINANCE_TRANSACTION_HISTORY": "交易记录",
-            "NAV_MENU_DROPDOWN_FINANCE_SUBSCRIPTIONS": "订阅内容",
-            "NAV_MENU_LINK_SUPPORT": "支持",
-            "NAV_MENU_DROPDOWN_SUPPORT_PRIVACY": "隐私政策",
-            "NAV_MENU_DROPDOWN_SUPPORT_TERMS_OF_SERVICE": "服务条款",
-            "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "发送反馈"
-        },
         "feedback_modal": {
             "FEEDBACK_DIALOG_TITLE": "发送反馈",
             "FEEDBACK_DIALOG_MESSAGE_LABEL": "信息",
