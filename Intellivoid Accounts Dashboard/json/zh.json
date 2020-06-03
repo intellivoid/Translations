@@ -14,23 +14,6 @@
             "HEADER": "500 - 内部服务器错误",
             "HOME_LINK": "回到家"
         },
-        "account_balance": {
-            "PAGE_TITLE": "账户余额",
-            "BALANCE_TITLE": "账户余额",
-            "BALANCE_ADD_LINK": "加上余额",
-            "ADD_MESSAGE_P1": "您可以将资金添加到您的Intellivoid帐户中，但不能按照我们的条款和服务中的说明提取或转入其他Intellivoid帐户中。",
-            "ADD_MESSAGE_P2": "此过程由Intellivoid手动处理，最多可能需要48个小时来处理。",
-            "ADD_MESSAGE_P3": "您的PayPal电子邮件地址必须与Intellivoid帐户的电子邮件地址相同，否则交易将失败",
-            "UPDATE_EMAIL_BUTTON": "更新您的电子邮件地址",
-            "RECENT_ACTIVITY_CARD_TITLE": "近期活动",
-            "RECENT_ACTIVITY_CARD_OPTIONS_VIEW_ALL_TRANSACTIONS": "查看更多交易",
-            "NO_ITEMS": "没有相关产品",
-            "VIEW_TRANSACTION_INVOICE_LINK": "查看发票",
-            "ADD_BALANCE_DIALOG_TITLE": "添加到您的余额",
-            "ADD_BALANCE_DIALOG_SELECT_LABEL": "选择金额",
-            "ADD_BALANCE_DIALOG_CANCEL_BUTTON": "取消",
-            "ADD_BALANCE_DIALOG_CONTINUE_BUTTON": "继续"
-        },
         "application_authenticate": {
             "PAGE_TITLE": "向%s进行身份验证",
             "AUTHENTICATE_CARD_TITLE": "使用Intellivoid帐户登录",
