@@ -636,6 +636,10 @@
         }
     },
     "sections": {
+        "authentication_footer": {
+            "AUTH_FOOTER_PRIVACY_LINK": "隐私",
+            "AUTH_FOOTER_TOS_LINK": "服务条款"
+        },
         "change_avatar_modal": {
             "CHANGE_AVATAR_DIALOG_TITLE": "更改头像",
             "CHANGE_AVATAR_DIALOG_HINT": "可接受的上传尺寸为128x128像素或更大的JPEG或PNG图片",
