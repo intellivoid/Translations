@@ -668,6 +668,14 @@
             "NAV_MENU_DROPDOWN_SUPPORT_TERMS_OF_SERVICE": "服务条款",
             "NAV_MENU_DROPDOWN_SUPPORT_FEEDBACK": "发送反馈"
         },
+        "settings_sidebar": {
+            "SETTINGS_TAB_PERSONAL": "个人信息",
+            "SETTINGS_TAB_CHANGE_PASSWORD": "更新密码",
+            "SETTINGS_TAB_LOGIN_SECURITY": "登录安全",
+            "SETTINGS_TAB_AUTHORIZED_APPS": "授权申请",
+            "SETTINGS_TAB_LOGIN_HISTORY": "登录历史",
+            "SETTINGS_TAB_OTL_GENERATOR": "OTL发生器"
+        },
         "feedback_modal": {
             "FEEDBACK_DIALOG_TITLE": "发送反馈",
             "FEEDBACK_DIALOG_MESSAGE_LABEL": "信息",
