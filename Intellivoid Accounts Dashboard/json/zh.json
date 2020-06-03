@@ -594,7 +594,7 @@
         "verify":
         {
             "PAGE_TITLE": "验证身份验证",
-            "HEADER": "验证",
+            "HEADER": "验证您的登录名",
             "SUB_HEADER": "为了保护您的帐户免遭未经授权的访问，请验证您的登录名",
             "VERIFICATION_METHOD_TELEGRAM": "电报提示",
             "VERIFICATION_METHOD_MOBILE": "使用手机验证",
