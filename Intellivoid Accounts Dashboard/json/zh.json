@@ -236,11 +236,10 @@
             "ABOUT_2_BODY": "如果一项服务遭到破坏，那么拥有太多账户的许多不同服务可能会使用户面临风险。而是使用Intellivoid帐户作为您下一个项目的身份验证形式",
             "ABOUT_3_HEADER": "不再有无效的验证形式",
             "ABOUT_3_BODY": "厌倦了电话验证/电子邮件验证？不再！ sim交换已成为过去。"
-
         },
         "login": {
             "PAGE_TITLE": "Intellivoid Accounts - 登入",
-            "AUTHENTICATION_HEADER": "登录到现有的Intellivoid帐户",
+            "AUTHENTICATION_HEADER": "登入",
             "LOGIN_PLACEHOLDER": "用户名或电子邮件",
             "PASSWORD_PLACEHOLDER": "密码",
             "LOGIN_BUTTON": "登录",
