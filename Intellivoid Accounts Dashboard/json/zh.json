@@ -6,16 +6,12 @@
     "pages": {
         "404": {
             "PAGE_TITLE": "找不到404",
-            "HEADER": "404",
-            "SUB_HEADER": "UwU",
-            "MESSAGE": "在这里找不到任何东西",
+            "HEADER": "404 - 网页未找到！",
             "HOME_LINK": "回到家"
         },
         "500": {
             "PAGE_TITLE": "500内部服务器错误",
-            "HEADER": "500",
-            "SUB_HEADER": "OwO",
-            "MESSAGE": "服务器发出糟糕的信号",
+            "HEADER": "500 - 内部服务器错误",
             "HOME_LINK": "回到家"
         },
         "account_balance": {
