@@ -50,7 +50,7 @@
         },
         "audit_logs": {
             "PAGE_TITLE": "审核日志",
-            "CARD_TITLE": "审核日志历史记录",
+            "PAGE_HEADER": "审核日志历史记录",
             "CARD_DESCRIPTION": "与您的帐户相关联的最新安全事件",
             "AUDIT_EVENT_NEW_LOGIN_DETECTED": "检测到新登录",
             "AUDIT_EVENT_PASSWORD_UPDATE": "密码已更新",
