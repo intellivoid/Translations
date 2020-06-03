@@ -257,24 +257,6 @@
             "CALLBACK_109": "身份验证被拒绝",
             "CALLBACK_110": "您的密码已成功更新"
         },
-        "login_history": {
-            "PAGE_TITLE": "登录历史",
-            "CARD_TITLE": "登录历史",
-            "CARD_DESCRIPTION": "查看您使用什么设备登录以及何时登录",
-            "TABLE_HEADERS_ORIGIN": "起源",
-            "TABLE_HEADERS_BROWSER": "浏览器",
-            "TABLE_HEADERS_IP_ADDRESS": "IP地址",
-            "TABLE_HEADERS_STATUS": "状态",
-            "TABLE_HEADERS_DATE": "日期",
-            "LOGIN_STATUS_SUCCESS": "成功的",
-            "LOGIN_STATUS_INCORRECT_CREDENTIALS": "凭证不正确",
-            "LOGIN_STATUS_VERIFICATION_FAILED": "验证失败",
-            "LOGIN_STATUS_UNTRUSTED_IP_BLOCKED": "不受信任的IP被阻止",
-            "LOGIN_STATUS_SUSPICIOUS_ACTIVITY_BLOCKED": "可疑活动被阻止",
-            "LOGIN_STATUS_UNKNOWN": "未知",
-            "NO_RESULTS_HEADER": "没有结果",
-            "NO_RESULTS_TEXT": "没有要显示的数据"
-        },
         "login_security": {
             "PAGE_TITLE": "登录安全",
             "BANNER_HEADER": "登录安全",
