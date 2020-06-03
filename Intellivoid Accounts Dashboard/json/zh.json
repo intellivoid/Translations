@@ -480,6 +480,23 @@
             "PAGE_HEADER": "一次性密码生成器",
             "DESCRIPTION": "下面的代码是与您的帐户关联的一次性生成的登录代码，用于内部服务。员工绝不会要求此代码，您不应将此代码提供给任何人。该代码将在5分钟后过期。"
         },
+        "settings_password": {
+            "PAGE_TITLE": "更新密码",
+            "PAGE_HEADER": "更新密码",
+            "CURRENT_PASSWORD_LABEL": "当前密码",
+            "CURRENT_PASSWORD_PLACEHOLDER": "当前密码",
+            "NEW_PASSWORD_LABEL": "新密码",
+            "NEW_PASSWORD_PLACEHOLDER": "新密码",
+            "CONFIRM_PASSWORD_LABEL": "确认密码",
+            "CONFIRM_PASSWORD_PLACEHOLDER": "确认密码",
+            "SUBMIT_BUTTON": "更新资料",
+            "CALLBACK_100": "请求存在问题，请确保您使用的是最新的浏览器",
+            "CALLBACK_101": "您输入的当前密码不正确",
+            "CALLBACK_102": "确认密码与新密码不匹配",
+            "CALLBACK_103": "您的密码已成功更新",
+            "CALLBACK_104": "您输入的密码之前已被其他服务盗用，请使用其他密码。",
+            "CALLBACK_105": "您输入的密码无效"
+        },
         "sudo": {
             "PAGE_TITLE": "须藤模式",
             "AUTHENTICATION_SUB_HEADER": "为防止未经授权的更改，请输入密码",
