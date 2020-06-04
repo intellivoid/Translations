@@ -11,7 +11,7 @@ pages and imported sections.
 | Language             | Last Updated   | Needs to be updated  | Translator                                            |
 |----------------------|----------------|----------------------|-------------------------------------------------------|
 | English              | June 3, 2020   | No                   | [Zi Xing](https://github.com/netkas)                  |
-| Chinese (Simplified) | Feb 5, 2020    | Yes                  | [Zi Xing](https://github.com/netkas)                  |
+| Chinese (Simplified) | June 3, 2020   | No                  | [Zi Xing](https://github.com/netkas)                  |
 | Spanish              | Feb 5, 2020    | Yes                  | [Ryosuke Ikeda](https://github.com/takarushi)         |
 | German               | Feb 1, 2020    | Yes                  | [Dav2070](https://github.com/Dav2070)                 |
 | Turkish              | Feb 17, 2020   | Yes                  | [M.Furkan](https://github.com/muhammedfurkan)         |
