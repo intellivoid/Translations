@@ -16,7 +16,7 @@
         },
         "application_authenticate": {
             "PAGE_TITLE": "向%s进行身份验证",
-            "AUTHENTICATE_CARD_TITLE": "使用Intellivoid Accounts登录",
+            "AUTHENTICATE_CARD_TITLE": "使用Intellivoid帐户登录",
             "USER_IMG_ALT": "用户头像",
             "APP_IMG_ALT": "应用徽标",
             "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
@@ -37,9 +37,9 @@
             "PERMISSIONS_TELEGRAM_NOTIFICATIONS_TEXT": "通过电报发送通知",
             "PERMISSIONS_MAKE_PURCHASES_TOOLTIP": "允许您使用帐户余额进行购买或激活订阅（仅限Intellivoid）",
             "PERMISSIONS_MAKE_PURCHASE_TEXT": "要求购买",
-            "AUTHENTICATION_NOTICE_OFFICIAL": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。这是官方的Intellivoid应用程序/服务，您授予的任何信息或权限都将通过Intellivoid的服务条款和隐私政策使用，这些条款或隐私政策可在相应的网站或应用程序上进行查看。您可以随时通过Intellivoid Accounts撤消访问权限",
-            "AUTHENTICATION_NOTICE_VERIFIED": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。此应用程序已由Intellivoid验证为正式，但它不是正式的Intellivoid应用程序/服务，如果您授予的任何信息或许可，将在其服务条款和隐私权政策中使用（如果有的话）。您可以随时通过Intellivoid Accounts撤消访问权限",
-            "AUTHENTICATION_NOTICE_GENERIC": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。这不是官方的Intellivoid应用程序/服务，如果您授予的任何信息或权限，将在其服务条款和隐私策略中使用（如果有的话）。您可以随时通过Intellivoid Accounts撤消访问权限",
+            "AUTHENTICATION_NOTICE_OFFICIAL": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。这是官方的Intellivoid应用程序/服务，您授予的任何信息或权限都将通过Intellivoid的服务条款和隐私政策使用，这些条款或隐私政策可在相应的网站或应用程序上进行查看。您可以随时通过Intellivoid帐户撤消访问权限",
+            "AUTHENTICATION_NOTICE_VERIFIED": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。此应用程序已由Intellivoid验证为正式，但它不是正式的Intellivoid应用程序/服务，如果您授予的任何信息或许可，将在其服务条款和隐私权政策中使用（如果有的话）。您可以随时通过Intellivoid帐户撤消访问权限",
+            "AUTHENTICATION_NOTICE_GENERIC": "通过单击“身份验证”，您正在使用您选择授予此应用程序或服务的权限向%s进行身份验证。这不是官方的Intellivoid应用程序/服务，如果您授予的任何信息或权限，将在其服务条款和隐私策略中使用（如果有的话）。您可以随时通过Intellivoid帐户撤消访问权限",
             "AUTHENTICATION_AUTHENTICATE_BUTTON": "认证"
         },
         "application_error": {
@@ -69,7 +69,7 @@
         },
         "authentication_code": {
             "PAGE_TITLE": "验证码",
-            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid Accounts登录",
+            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid帐户登录",
             "USER_IMG_ALT": "用户头像",
             "APP_IMG_ALT": "应用徽标",
             "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
@@ -81,7 +81,7 @@
         },
         "authentication_success": {
             "PAGE_TITLE": "验证成功",
-            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid Accounts登录",
+            "AUTHENTICATION_CARD_TITLE": "使用Intellivoid帐户登录",
             "USER_IMG_ALT": "用户头像",
             "APP_IMG_ALT": "应用徽标",
             "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
@@ -92,7 +92,7 @@
         },
         "confirm_subscription_purchase": {
             "PAGE_TITLE": "确认订购购买",
-            "CARD_HEADER": "Intellivoid Accounts",
+            "CARD_HEADER": "Intellivoid帐户",
             "USER_IMG_ALT": "用户头像",
             "APP_IMG_ALT": "应用徽标",
             "APPLICATION_TICK_VERIFIED": "这是经过验证和信任的",
@@ -112,14 +112,14 @@
             "CALLBACK_101": "密码错误",
             "CALLBACK_102": "您已经拥有与此应用程序的激活订阅",
             "CALLBACK_103": "您的帐户目前受限制，请与支持小组联系",
-            "CALLBACK_104": "您的Intellivoid Accounts中资金不足，请添加更多资金。"
+            "CALLBACK_104": "您的Intellivoid帐户中资金不足，请添加更多资金。"
         },
         "finance_balance": {
             "PAGE_TITLE": "账户余额",
             "BALANCE_ADD_LINK": "加上余额",
-            "ADD_MESSAGE_P1": "您可以向您的Intellivoid Accounts中添加资金，但不能按照我们的条款和服务中的说明提取或转入其他Intellivoid Accounts中。",
+            "ADD_MESSAGE_P1": "您可以向您的Intellivoid帐户中添加资金，但不能按照我们的条款和服务中的说明提取或转入其他Intellivoid帐户中。",
             "ADD_MESSAGE_P2": "此过程由Intellivoid手动处理，最多可能需要48个小时来处理。",
-            "ADD_MESSAGE_P3": "您的PayPal电子邮件地址必须与Intellivoid Accounts的电子邮件地址相同，否则交易将失败",
+            "ADD_MESSAGE_P3": "您的PayPal电子邮件地址必须与Intellivoid帐户的电子邮件地址相同，否则交易将失败",
             "UPDATE_EMAIL_BUTTON": "更新您的电子邮件地址",
             "RECENT_ACTIVITY_CARD_TITLE": "近期活动",
             "VIEW_TRANSACTION_HISTORY": "查看交易记录",
@@ -139,7 +139,7 @@
             "INVOICE_QUANTITY": "数量",
             "INVOICE_UNIT_COST": "单位成本",
             "INVOICE_TOTAL": "总",
-            "INVOICE_FOOTER": "该发票由Intellivoid Accounts生成"
+            "INVOICE_FOOTER": "该发票由Intellivoid帐户生成"
         },
         "finance_subscriptions": {
             "PAGE_TITLE": "管理订阅",
@@ -164,11 +164,11 @@
             "PAGE_CONTENT": "我们无法向您透露情况，您的帐户已被禁用，以防止您，我们，他人和您之前通过身份验证的第三方应用程序访问。一旦我们确定可以安全使用您的帐户，便可以使用该帐户。这是一个自动过程，可能触发了一个或多个攻击。"
         },
         "index": {
-            "PAGE_TITLE": "Intellivoid Accounts",
+            "PAGE_TITLE": "Intellivoid帐户",
             "WELCOME_BANNER_HEADER": "欢迎您，%s！",
-            "WELCOME_BANNER_SUB_HEADER": "在这里您可以管理Intellivoid Accounts，如果您需要任何帮助，请随时与我们联系",
+            "WELCOME_BANNER_SUB_HEADER": "在这里您可以管理Intellivoid帐户，如果您需要任何帮助，请随时与我们联系",
             "ACCOUNT_SECURITY_ALERT_TITLE": "帐号安全",
-            "ACCOUNT_SECURITY_ALERT_MESSAGE": "将电报帐户与Intellivoid Accounts关联起来很重要，这将为您的帐户提供更高的安全性，并在您失去访问权限的情况下恢复您的帐户",
+            "ACCOUNT_SECURITY_ALERT_MESSAGE": "将电报帐户与Intellivoid帐户关联起来很重要，这将为您的帐户提供更高的安全性，并在您失去访问权限的情况下恢复您的帐户",
             "ACCOUNT_SECURITY_OPEN_TELEGRAM_BUTTON": "通电",
             "RECENT_ACTIONS_CARD_TITLE": "最近动作",
             "RECENT_ACTIONS_CARD_DROPDOWN_VIEW_MORE": "查看更多",
@@ -229,11 +229,11 @@
             "FEATURES_2_HEADER": "数据控制",
             "FEATURES_2_BODY": "选择您要共享的数据，除了您的用户名和头像外，没有其他义务",
             "FEATURES_3_HEADER": "开放平台",
-            "FEATURES_3_BODY": "将Intellivoid Accounts集成到任何东西，甚至包括Android ROM",
+            "FEATURES_3_BODY": "将Intellivoid帐户集成到任何东西，甚至包括Android ROM",
             "ABOUT_1_HEADER": "对数据收集说不",
             "ABOUT_1_BODY": "未经您的同意，Intellivoid不会显示广告或收集有关您的数据以与第三方公司共享。您的数据属于您，您有权选择如何与他人共享",
             "ABOUT_2_HEADER": "停止重新发明轮子",
-            "ABOUT_2_BODY": "如果一项服务遭到破坏，那么拥有太多账户的许多不同服务可能会使用户面临风险。而是使用Intellivoid Accounts作为您下一个项目的身份验证形式",
+            "ABOUT_2_BODY": "如果一项服务遭到破坏，那么拥有太多账户的许多不同服务可能会使用户面临风险。而是使用Intellivoid帐户作为您下一个项目的身份验证形式",
             "ABOUT_3_HEADER": "不再有无效的验证形式",
             "ABOUT_3_BODY": "厌倦了电话验证/电子邮件验证？不再！ sim交换已成为过去。"
         },
@@ -306,8 +306,8 @@
         },
         "privacy": {
             "PAGE_TITLE": "Intellivoid Accounts - 私隐政策",
-            "CARD_HEADER": "Intellivoid Accounts的隐私政策",
-            "CARD_DESCRIPTION": "本页说明Intellivoid Accounts的隐私政策"
+            "CARD_HEADER": "Intellivoid帐户的隐私政策",
+            "CARD_DESCRIPTION": "本页说明Intellivoid帐户的隐私政策"
         },
         "manage_applications": {
             "PAGE_TITLE": "管理应用程式",
@@ -374,7 +374,7 @@
             "CALLBACK_103": "您输入的密码之前曾被其他服务盗用，请使用其他密码"
         },
         "register": {
-            "PAGE_TITLE": "Intellivoid Accounts-注册",
+            "PAGE_TITLE": "Intellivoid帐户-注册",
             "AUTHENTICATION_SUB_HEADER": "注册账户",
             "EMAIL_ADDRESS_LABEL": "电子邮件地址",
             "USERNAME_LABEL": "用户名",
@@ -390,7 +390,7 @@
             "CALLBACK_104": "密码不安全，请选择其他密码",
             "CALLBACK_105": "该用户名已被另一个帐户使用",
             "CALLBACK_106": "该电子邮件已被另一个帐户使用",
-            "CALLBACK_107": "您必须同意我们的服务条款才能创建Intellivoid Accounts",
+            "CALLBACK_107": "您必须同意我们的服务条款才能创建Intellivoid帐户",
             "CALLBACK_108": "您输入的密码已被其他服务泄露，因此无法使用。"
         },
         "settings_authorized_apps": {
@@ -467,12 +467,12 @@
             "CALLBACK_105": "恢复代码验证已被禁用。",
             "CALLBACK_106": "您无法设置恢复代码验证，因为它已启用",
             "CALLBACK_107": "恢复码已启用",
-            "CALLBACK_108": "您的Intellivoid Accounts已链接到电报帐户",
+            "CALLBACK_108": "您的Intellivoid帐户已链接到电报帐户",
             "CALLBACK_109": "您的电报客户端无效",
             "CALLBACK_110": "尝试处理您的请求时出现未知错误",
             "CALLBACK_111": "该电报已链接到另一个帐户，以取消关联电报发送/unlink",
-            "CALLBACK_112": "您已成功将电报链接到Intellivoid Accounts",
-            "CALLBACK_113": "没有与您的Intellivoid Accounts关联的电报帐户",
+            "CALLBACK_112": "您已成功将电报链接到Intellivoid帐户",
+            "CALLBACK_113": "没有与您的Intellivoid帐户关联的电报帐户",
             "CALLBACK_114": "您的电报帐户已成功取消关联"
         },
         "settings_otl_generator": {
@@ -578,7 +578,7 @@
         "tos": {
             "PAGE_TITLE": "Intellivoid Accounts - 服务条款",
             "PAGE_HEADER": "服务条款",
-            "PAGE_SUB_HEADER": "本页说明我们的Intellivoid Accounts服务条款"
+            "PAGE_SUB_HEADER": "本页说明我们的Intellivoid帐户服务条款"
         },
         "transaction_history": {
             "PAGE_TITLE": "交易记录",
