@@ -11,6 +11,7 @@ pages and imported sections.
 | Language             | Last Updated   | Needs to be updated  | Translator                                     |
 |----------------------|----------------|----------------------|------------------------------------------------|
 | English              | Sep 19, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
+| Chinese              | Sep 20, 2020   | No                   | [Zi Xing](https://github.com/netkas)            |
 
 ## Example Document
 ```json
