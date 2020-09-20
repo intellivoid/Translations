@@ -1,0 +1,90 @@
+{
+    "language": {
+        "name": "english",
+        "iso_639-1": "en"
+    },
+    "pages": {
+        "404": {
+            "PAGE_TITLE": "404 Not Found",
+            "HEADER": "404 - Page Not Found!",
+            "HOME_LINK": "Go Back Home"
+        },
+        "500": {
+            "PAGE_TITLE": "500 Internal Server Error",
+            "HEADER": "500 - Internal Server Error",
+            "HOME_LINK": "Go Back Home"
+        },
+        "index": {
+            "PAGE_TITLE": "Todo",
+            "BUTTON_CREATE_TASK": "Create Task",
+            "TASKS_OVERVIEW": "Overview",
+            "TASKS_FILTER_ALL": "All",
+            "TASKS_FILTER_UNCOMPLETED": "Uncompleted",
+            "TASKS_FILTER_COMPLETED": "Completed",
+            "TASKS_FILTER_TRASHED": "Trashed",
+            "PLACEHOLDER_NO_DELETED_TASKS": "No deleted tasks here",
+            "PLACEHOLDER_NO_COMPLETED_TASKS": "No completed tasks",
+            "PLACEHOLDER_NO_TASKS": "No tasks for today, continue on!",
+            "PLACEHOLDER_NO_GROUPS": "No Groups",
+            "PLACEHOLDER_NO_RESULTS": "No results found",
+            "PLACEHOLDER_SEARCH": "Search",
+            "PLACEHOLDER_GROUPS": "Groups",
+            "PLACEHOLDER_FILTERS": "Filters",
+            "SELECTED_GROUP_HEADER_ALL_TASKS": "All Tasks",
+            "CALLBACK_100": "There was an unexpected error with our servers, try again later.",
+            "CALLBACK_101": "The task title is invalid, it cannot be empty or larger than 526 characters",
+            "CALLBACK_102": "The task description is invalid, it cannot be larger than 2526 characters",
+            "CALLBACK_103": "The group name is invalid, it cannot be larger than 256 characters",
+            "CALLBACK_104": "There was an error while trying to get information about the group",
+            "CALLBACK_105": "The group cannot be edited, the group doesn't exist",
+            "CALLBACK_106": "The task color is invalid",
+            "CALLBACK_107": "The requested task cannot be found",
+            "CALLBACK_108": "Invalid request, missing parameter 'task_id'",
+            "CALLBACK_109": "Invalid request, missing parameter 'color'",
+            "CALLBACK_110": "Invalid request, missing parameter 'title'",
+            "CALLBACK_111": "Invalid request, missing parameter 'description'",
+            "CALLBACK_112": "You don't have the proper permissions to view this content",
+            "CALLBACK_113": "The task cannot be permanently deleted without being in the trash first",
+            "CALLBACK_114": "The task cannot be restored because it isn't deleted"
+        }
+    },
+    "sections": {
+        "main_nav": {
+            "NAV_APPLICATION_INFO": "Application Info",
+            "NAV_MANAGE_ACCOUNT": "Manage Account"
+        },
+        "create_task_modal": {
+            "CREATE_TASK_MODAL_TITLE": "Create Task",
+            "CREATE_TASK_TITLE_PLACEHOLDER": "Title",
+            "CREATE_TASK_DESCRIPTION_PLACEHOLDER": "Optional description about this task",
+            "CREATE_TASK_CANCEL_BUTTON": "Cancel",
+            "CREATE_TASK_CREATE_BUTTON": "Create"
+        },
+        "create_group_modal": {
+            "CREATE_GROUP_MODAL_TITLE": "Create Group",
+            "CREATE_GROUP_NAME_PLACEHOLDER": "Group Name",
+            "CREATE_GROUP_CANCEL_BUTTON": "Cancel",
+            "CREATE_GROUP_CREATE_BUTTON": "Create"
+        },
+        "delete_group_modal": {
+            "DELETE_GROUP_MODAL_TITLE": "Delete Group",
+            "DELETE_GROUP_BODY": "Are you sure you want to delete this group? all tasks associated with this group will be deleted as well.",
+            "DELETE_GROUP_CANCEL_BUTTON": "Cancel",
+            "DELETE_GROUP_DELETE_BUTTON": "Delete"
+        },
+        "edit_group_modal": {
+            "EDIT_GROUP_MODAL_TITLE": "Edit Group",
+            "EDIT_GROUP_NAME_PLACEHOLDER": "Group Name",
+            "EDIT_GROUP_CANCEL_BUTTON": "Cancel",
+            "EDIT_GROUP_UPDATE_BUTTON": "Update"
+        },
+        "edit_task_modal":
+        {
+            "EDIT_TASK_MODAL_NAME": "Edit Task",
+            "EDIT_TASK_TITLE_PLACEHOLDER": "Task Title",
+            "EDIT_TASK_DESCRIPTION_PLACEHOLDER": "A optional description about the task",
+            "EDIT_TASK_CANCEL_BUTTON": "Cancel",
+            "EDIT_TASK_UPDATE_BUTTON": "Update"
+        }
+    }
+}

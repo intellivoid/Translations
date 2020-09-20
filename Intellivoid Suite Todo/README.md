@@ -1,6 +1,6 @@
-# Intellivoid Website
+# Intellivoid Suite - Todo
 
-The Intellivoid Website is written under the DynamicalWeb
+The Todo Web Application is written under the DynamicalWeb
 framework (Internal Solution developed by Intellivoid), this
 framework uses a single json file to display text for individual
 pages and imported sections.
@@ -10,9 +10,7 @@ pages and imported sections.
 
 | Language             | Last Updated   | Needs to be updated  | Translator                                     |
 |----------------------|----------------|----------------------|------------------------------------------------|
-| English              | Feb 16, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
-| Spanish              | Mar 23, 2020   | No                   | [Diederik Noordhuis](https://github.com/AntiEngineer), [Ryosuke Ikeda](https://github.com/takarushi)  |
-| Turkish              | Feb 18, 2020   | No                   | [M.Furkan](https://github.com/muhammedfurkan)  |
+| English              | Sep 19, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
 
 ## Example Document
 ```json
