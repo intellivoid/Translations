@@ -7,12 +7,12 @@
         "404": {
             "PAGE_TITLE": "找不到404",
             "HEADER": "404页面不存在！",
-            "HOME_LINK": "回到家"
+            "HOME_LINK": "回到主页"
         },
         "500": {
             "PAGE_TITLE": "500内部服务器错误",
             "HEADER": "500内部服务器错误",
-            "HOME_LINK": "回到家"
+            "HOME_LINK": "回到主页"
         },
         "application_authenticate": {
             "PAGE_TITLE": "向%s验证",
@@ -177,7 +177,7 @@
             "WELCOME_BANNER_SUB_HEADER": "在这里您可以管理Intellivoid Accounts，如果您需要任何帮助，请随时与我们联系",
             "ACCOUNT_SECURITY_ALERT_TITLE": "帐号安全",
             "ACCOUNT_SECURITY_ALERT_MESSAGE": "将电报帐户与Intellivoid Accounts关联起来很重要，这将为您的帐户提供更大的安全性，并在您失去访问权限的情况下恢复您的帐户",
-            "ACCOUNT_SECURITY_OPEN_TELEGRAM_BUTTON": "通电",
+            "ACCOUNT_SECURITY_OPEN_TELEGRAM_BUTTON": "开启电报",
             "RECENT_ACTIONS_CARD_TITLE": "最近动作",
             "RECENT_ACTIONS_CARD_DROPDOWN_VIEW_MORE": "查看更多",
             "ACCOUNT_BALANCE_TEXT": "账户余额",
@@ -187,7 +187,7 @@
             "ACCOUNT_SECURITY": "帐号安全",
             "ACCOUNT_SECURITY_NOT_ENABLED": "未启用",
             "ACCOUNT_SECURITY_ENABLED": "已启用",
-            "ACCOUNT_SECURITY_DISABLED": "残障人士",
+            "ACCOUNT_SECURITY_DISABLED": "已禁用",
             "ACCOUNT_SECURITY_MOBILE_VERIFICATION": "移动验证",
             "ACCOUNT_SECURITY_RECOVERY_CODES": "恢复码",
             "ACCOUNT_SECURITY_TELEGRAM_VERIFICATION": "电报验证",
@@ -337,8 +337,8 @@
             "CREATE_APPLICATION_DIALOG_SUBMIT_BUTTON": "建立申请",
             "APPLICATION_VIEW_APPLICATION_ICON_ALT": "应用程序图标",
             "APPLICATION_VIEW_CREATED_TIMESTAMP": "创建于%s",
-            "APPLICATION_VIEW_STATE_ACTIVE": "活性",
-            "APPLICATION_VIEW_STATE_DISABLED": "残障人士",
+            "APPLICATION_VIEW_STATE_ACTIVE": "已启用",
+            "APPLICATION_VIEW_STATE_DISABLED": "已禁用",
             "APPLICATION_VIEW_STATE_SUSPENDED": "已暂停",
             "APPLICATION_VIEW_EMPTY": "没有申请",
             "CALLBACK_100": "请求存在问题，请确保您使用的是最新的浏览器",
@@ -444,7 +444,7 @@
         "settings_login_security": {
             "PAGE_TITLE": "登录安全",
             "STATE_ENABLED": "已启用",
-            "STATE_DISABLED": "残障人士",
+            "STATE_DISABLED": "已禁用",
             "STATE_NOT_ENABLED": "未启用",
             "ACTION_SETUP": "建立",
             "ACTION_DISABLE": "禁用",
@@ -552,9 +552,9 @@
             "DEFAULT_VALUE": "没有",
             "BIRTHDAY_YEAR_01": "一月",
             "BIRTHDAY_YEAR_02": "二月",
-            "BIRTHDAY_YEAR_03": "游行",
+            "BIRTHDAY_YEAR_03": "三月",
             "BIRTHDAY_YEAR_04": "四月",
-            "BIRTHDAY_YEAR_05": "可能",
+            "BIRTHDAY_YEAR_05": "五月",
             "BIRTHDAY_YEAR_06": "六月",
             "BIRTHDAY_YEAR_07": "七月",
             "BIRTHDAY_YEAR_08": "八月",
