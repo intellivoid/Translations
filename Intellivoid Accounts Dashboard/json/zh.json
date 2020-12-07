@@ -582,8 +582,8 @@
             "CALLBACK_120": "您的帐户信息已成功更新"
         },
         "sudo": {
-            "PAGE_TITLE": "须藤模式",
-            "HEADER": "须藤模式",
+            "PAGE_TITLE": "SUDO模式",
+            "HEADER": "SUDO模式",
             "SUB_HEADER": "为防止未经授权的更改，请输入密码",
             "PASSWORD_LABEL": "密码",
             "SUBMIT_BUTTON": "认证",
@@ -695,7 +695,7 @@
         "landing_footer": {
             "FOOTER_MENU_LINK_PRIVACY": "私隐政策",
             "FOOTER_MENU_LINK_TOS": "服务条款",
-            "FOOTER_MENU_LINK_DOCUMENTATION": "文献资料"
+            "FOOTER_MENU_LINK_DOCUMENTATION": "服务文档"
         },
         "landing_navbar": {
             "NAV_MENU_LINK_LOGIN": "登录",
