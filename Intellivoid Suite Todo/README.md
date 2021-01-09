@@ -12,6 +12,7 @@ pages and imported sections.
 |----------------------|----------------|----------------------|------------------------------------------------|
 | English              | Sep 19, 2020   | No                   | [Zi Xing](https://github.com/netkas)           |
 | Chinese              | Sep 20, 2020   | No                   | [Zi Xing](https://github.com/netkas)            |
+| Spanish              | Jan 9, 2021    | No                   | [Izuku Kirishima](https://github.com/takarushi) |
 
 ## Example Document
 ```json
