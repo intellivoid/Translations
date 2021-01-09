@@ -1,0 +1,90 @@
+{
+    "language": {
+        "name": "Español",
+        "iso_639-1": "es"
+    },
+    "pages": {
+        "404": {
+            "PAGE_TITLE": "404 No Encontrado",
+            "HEADER": "404 - Página No Encontrada!",
+            "HOME_LINK": "Volver al Inicio"
+        },
+        "500": {
+            "PAGE_TITLE": "500 Error interno del Servidor",
+            "HEADER": "500 - Error interno del Servidor",
+            "HOME_LINK": "Volver al Inicio"
+        },
+        "index": {
+            "PAGE_TITLE": "Todo",
+            "BUTTON_CREATE_TASK": "Crear Tarea",
+            "TASKS_OVERVIEW": "Overview",
+            "TASKS_FILTER_ALL": "Todo",
+            "TASKS_FILTER_UNCOMPLETED": "Sin Completar",
+            "TASKS_FILTER_COMPLETED": "Completado",
+            "TASKS_FILTER_TRASHED": "En la basura",
+            "PLACEHOLDER_NO_DELETED_TASKS": "No hay tareas eliminadas",
+            "PLACEHOLDER_NO_COMPLETED_TASKS": "No hay tareas completadas",
+            "PLACEHOLDER_NO_TASKS": "Sin tareas por hoy, Sigue así!",
+            "PLACEHOLDER_NO_GROUPS": "No Groups",
+            "PLACEHOLDER_NO_RESULTS": "No se encontraron resultados",
+            "PLACEHOLDER_SEARCH": "Buscar",
+            "PLACEHOLDER_GROUPS": "Grupos",
+            "PLACEHOLDER_FILTERS": "Filtros",
+            "SELECTED_GROUP_HEADER_ALL_TASKS": "Todas las Tareas",
+            "CALLBACK_100": "Hubo un error inesperado con nuestros servidors, Por favor intenta de nuevo más tarde.",
+            "CALLBACK_101": "El título de la tarea es inválido, No puede estar vacío o tener más de 526 caracteres",
+            "CALLBACK_102": "La descripción de la tarea es inválido, No puede estar vacío o tener más de 2526 caracteres",
+            "CALLBACK_103": "El nombre de grupo es inválido, No puede tener más de 256 caracteres",
+            "CALLBACK_104": "Hubo un error al tratar de obtener información acerca del grupo",
+            "CALLBACK_105": "El grupo no puede ser editado, el grupo no existe",
+            "CALLBACK_106": "El color de la tares es inválido",
+            "CALLBACK_107": "La tarea solicitada no puede ser encontrada",
+            "CALLBACK_108": "Solicitud inválida, Parametro faltante 'task_id'",
+            "CALLBACK_109": "Solicitud inválida, Parametro faltante 'color'",
+            "CALLBACK_110": "Solicitud inválida, Parametro faltante 'title'",
+            "CALLBACK_111": "Solicitud inválida, Parametro faltante 'description'",
+            "CALLBACK_112": "Tú no tienes los permisos adecuados para ver este contenido",
+            "CALLBACK_113": "La tarea no puede ser permanentemente eliminada sin estar en la basura primero",
+            "CALLBACK_114": "La tarea no puede ser restaurada porque no ha sido eliminada"
+        }
+    },
+    "sections": {
+        "main_nav": {
+            "NAV_APPLICATION_INFO": "Información de la aplicación",
+            "NAV_MANAGE_ACCOUNT": "Administrar Cuenta"
+        },
+        "create_task_modal": {
+            "CREATE_TASK_MODAL_TITLE": "Crear Tares",
+            "CREATE_TASK_TITLE_PLACEHOLDER": "Título",
+            "CREATE_TASK_DESCRIPTION_PLACEHOLDER": "Descripción opcional acerca de esta tarea",
+            "CREATE_TASK_CANCEL_BUTTON": "Cancelar",
+            "CREATE_TASK_CREATE_BUTTON": "Crear"
+        },
+        "create_group_modal": {
+            "CREATE_GROUP_MODAL_TITLE": "Crear Grupo",
+            "CREATE_GROUP_NAME_PLACEHOLDER": "Nombre del Grupo",
+            "CREATE_GROUP_CANCEL_BUTTON": "Cancelar",
+            "CREATE_GROUP_CREATE_BUTTON": "Crear"
+        },
+        "delete_group_modal": {
+            "DELETE_GROUP_MODAL_TITLE": "Eliminar Grupo",
+            "DELETE_GROUP_BODY": "Estás seguro que quieres eliminar este grupo? Todas las tareas asociadas también van a ser eliminadas.",
+            "DELETE_GROUP_CANCEL_BUTTON": "Cancelar",
+            "DELETE_GROUP_DELETE_BUTTON": "Eliminar"
+        },
+        "edit_group_modal": {
+            "EDIT_GROUP_MODAL_TITLE": "Editar Grupo",
+            "EDIT_GROUP_NAME_PLACEHOLDER": "Nombre del Grupo",
+            "EDIT_GROUP_CANCEL_BUTTON": "Cancelar",
+            "EDIT_GROUP_UPDATE_BUTTON": "Actualizar"
+        },
+        "edit_task_modal":
+        {
+            "EDIT_TASK_MODAL_NAME": "Editar Tareas",
+            "EDIT_TASK_TITLE_PLACEHOLDER": "Título de la tarea",
+            "EDIT_TASK_DESCRIPTION_PLACEHOLDER": "Una descripción opcional acerca de la tarea",
+            "EDIT_TASK_CANCEL_BUTTON": "Cancelar",
+            "EDIT_TASK_UPDATE_BUTTON": "Actualizar"
+        }
+    }
+}
